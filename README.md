@@ -93,6 +93,15 @@ Hosted on Cloudflare Pages. Deployments trigger automatically on push to `main`.
 - [www.wheelofheaven.world](https://www.wheelofheaven.world) - Main website
 - [api.wheelofheaven.world](https://api.wheelofheaven.world) - JSON API
 
+## Documentation
+
+For the architectural picture (caching strategy, headers, CORS, where this
+repo sits in the ecosystem), see
+[docs.wheelofheaven.world/architecture/sites/assets](https://docs.wheelofheaven.world/architecture/sites/assets/).
+For the pipelines that feed this CDN — image processing
+(`data-images/`), OG cards, video processing (`data-cinematics/`) — see
+[the Pipelines guide](https://docs.wheelofheaven.world/contributing/dev/pipelines/).
+
 ## License
 
 CC0-1.0 (Public Domain) unless otherwise noted in specific files.
