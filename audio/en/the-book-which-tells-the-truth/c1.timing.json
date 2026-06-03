@@ -1,0 +1,392 @@
+{
+  "book": "the-book-which-tells-the-truth",
+  "lang": "en",
+  "chapter": 1,
+  "duration_seconds": 687.133,
+  "paragraphs": [
+    {
+      "n": 1,
+      "speaker": "Narrator",
+      "start": 0.0,
+      "end": 36.455
+    },
+    {
+      "n": 2,
+      "speaker": "Narrator",
+      "start": 37.055,
+      "end": 55.26
+    },
+    {
+      "n": 3,
+      "speaker": "Narrator",
+      "start": 55.86,
+      "end": 108.43
+    },
+    {
+      "n": 4,
+      "speaker": "Narrator",
+      "start": 109.03,
+      "end": 158.302
+    },
+    {
+      "n": 5,
+      "speaker": "Narrator",
+      "start": 158.902,
+      "end": 190.992
+    },
+    {
+      "n": 6,
+      "speaker": "Narrator",
+      "start": 191.592,
+      "end": 265.757
+    },
+    {
+      "n": 7,
+      "speaker": "Raël",
+      "start": 266.657,
+      "end": 268.05
+    },
+    {
+      "n": 8,
+      "speaker": "Narrator",
+      "start": 268.95,
+      "end": 273.966
+    },
+    {
+      "n": 9,
+      "speaker": "Yahweh",
+      "start": 274.866,
+      "end": 276.398
+    },
+    {
+      "n": 10,
+      "speaker": "Raël",
+      "start": 277.298,
+      "end": 278.552
+    },
+    {
+      "n": 11,
+      "speaker": "Yahweh",
+      "start": 279.452,
+      "end": 281.867
+    },
+    {
+      "n": 12,
+      "speaker": "Raël",
+      "start": 282.767,
+      "end": 284.81
+    },
+    {
+      "n": 13,
+      "speaker": "Yahweh",
+      "start": 285.71,
+      "end": 286.453
+    },
+    {
+      "n": 14,
+      "speaker": "Narrator",
+      "start": 287.353,
+      "end": 290.883
+    },
+    {
+      "n": 15,
+      "speaker": "Raël",
+      "start": 291.783,
+      "end": 294.383
+    },
+    {
+      "n": 16,
+      "speaker": "Yahweh",
+      "start": 295.283,
+      "end": 296.119
+    },
+    {
+      "n": 17,
+      "speaker": "Raël",
+      "start": 297.019,
+      "end": 298.831
+    },
+    {
+      "n": 18,
+      "speaker": "Yahweh",
+      "start": 299.731,
+      "end": 302.006
+    },
+    {
+      "n": 19,
+      "speaker": "Raël",
+      "start": 302.906,
+      "end": 304.439
+    },
+    {
+      "n": 20,
+      "speaker": "Yahweh",
+      "start": 305.339,
+      "end": 306.918
+    },
+    {
+      "n": 21,
+      "speaker": "Raël",
+      "start": 307.818,
+      "end": 308.514
+    },
+    {
+      "n": 22,
+      "speaker": "Yahweh",
+      "start": 309.414,
+      "end": 316.752
+    },
+    {
+      "n": 23,
+      "speaker": "Raël",
+      "start": 317.652,
+      "end": 319.091
+    },
+    {
+      "n": 24,
+      "speaker": "Yahweh",
+      "start": 319.991,
+      "end": 322.313
+    },
+    {
+      "n": 25,
+      "speaker": "Raël",
+      "start": 323.213,
+      "end": 324.049
+    },
+    {
+      "n": 26,
+      "speaker": "Yahweh",
+      "start": 324.949,
+      "end": 330.29
+    },
+    {
+      "n": 27,
+      "speaker": "Narrator",
+      "start": 331.19,
+      "end": 335.509
+    },
+    {
+      "n": 28,
+      "speaker": "Yahweh",
+      "start": 336.409,
+      "end": 337.802
+    },
+    {
+      "n": 29,
+      "speaker": "Raël",
+      "start": 338.702,
+      "end": 341.906
+    },
+    {
+      "n": 30,
+      "speaker": "Yahweh",
+      "start": 342.806,
+      "end": 346.011
+    },
+    {
+      "n": 31,
+      "speaker": "Raël",
+      "start": 346.911,
+      "end": 352.112
+    },
+    {
+      "n": 32,
+      "speaker": "Yahweh",
+      "start": 353.012,
+      "end": 356.588
+    },
+    {
+      "n": 33,
+      "speaker": "Raël",
+      "start": 357.488,
+      "end": 367.379
+    },
+    {
+      "n": 34,
+      "speaker": "Yahweh",
+      "start": 368.279,
+      "end": 374.224
+    },
+    {
+      "n": 35,
+      "speaker": "Raël",
+      "start": 375.124,
+      "end": 376.888
+    },
+    {
+      "n": 36,
+      "speaker": "Yahweh",
+      "start": 377.788,
+      "end": 379.507
+    },
+    {
+      "n": 37,
+      "speaker": "Raël",
+      "start": 380.407,
+      "end": 383.193
+    },
+    {
+      "n": 38,
+      "speaker": "Yahweh",
+      "start": 384.093,
+      "end": 384.79
+    },
+    {
+      "n": 39,
+      "speaker": "Raël",
+      "start": 385.69,
+      "end": 388.987
+    },
+    {
+      "n": 40,
+      "speaker": "Yahweh",
+      "start": 389.887,
+      "end": 400.429
+    },
+    {
+      "n": 41,
+      "speaker": "Narrator",
+      "start": 401.329,
+      "end": 460.029
+    },
+    {
+      "n": 42,
+      "speaker": "Yahweh",
+      "start": 460.929,
+      "end": 466.548
+    },
+    {
+      "n": 43,
+      "speaker": "Raël",
+      "start": 467.448,
+      "end": 468.284
+    },
+    {
+      "n": 44,
+      "speaker": "Yahweh",
+      "start": 469.184,
+      "end": 500.252
+    },
+    {
+      "n": 45,
+      "speaker": "Raël",
+      "start": 501.152,
+      "end": 502.592
+    },
+    {
+      "n": 46,
+      "speaker": "Yahweh",
+      "start": 503.492,
+      "end": 561.82
+    },
+    {
+      "n": 47,
+      "speaker": "Yahweh",
+      "start": 562.42,
+      "end": 580.532
+    },
+    {
+      "n": 48,
+      "speaker": "Raël",
+      "start": 581.432,
+      "end": 582.918
+    },
+    {
+      "n": 49,
+      "speaker": "Yahweh",
+      "start": 583.818,
+      "end": 592.038
+    },
+    {
+      "n": 50,
+      "speaker": "Raël",
+      "start": 592.938,
+      "end": 594.331
+    },
+    {
+      "n": 51,
+      "speaker": "Yahweh",
+      "start": 595.231,
+      "end": 602.801
+    },
+    {
+      "n": 52,
+      "speaker": "Raël",
+      "start": 603.701,
+      "end": 604.815
+    },
+    {
+      "n": 53,
+      "speaker": "Yahweh",
+      "start": 605.715,
+      "end": 609.709
+    },
+    {
+      "n": 54,
+      "speaker": "Raël",
+      "start": 610.609,
+      "end": 612.838
+    },
+    {
+      "n": 55,
+      "speaker": "Yahweh",
+      "start": 613.738,
+      "end": 615.596
+    },
+    {
+      "n": 56,
+      "speaker": "Raël",
+      "start": 616.496,
+      "end": 618.075
+    },
+    {
+      "n": 57,
+      "speaker": "Yahweh",
+      "start": 618.975,
+      "end": 625.477
+    },
+    {
+      "n": 58,
+      "speaker": "Raël",
+      "start": 626.377,
+      "end": 627.677
+    },
+    {
+      "n": 59,
+      "speaker": "Yahweh",
+      "start": 628.577,
+      "end": 629.691
+    },
+    {
+      "n": 60,
+      "speaker": "Raël",
+      "start": 630.591,
+      "end": 632.96
+    },
+    {
+      "n": 61,
+      "speaker": "Yahweh",
+      "start": 633.86,
+      "end": 642.219
+    },
+    {
+      "n": 62,
+      "speaker": "Raël",
+      "start": 643.119,
+      "end": 644.28
+    },
+    {
+      "n": 63,
+      "speaker": "Yahweh",
+      "start": 645.18,
+      "end": 666.032
+    },
+    {
+      "n": 64,
+      "speaker": "Narrator",
+      "start": 666.932,
+      "end": 687.133
+    }
+  ]
+}
