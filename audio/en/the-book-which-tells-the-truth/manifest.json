@@ -9,6 +9,48 @@
       "timing_url": "audio/en/the-book-which-tells-the-truth/c1.timing.json",
       "duration_seconds": 687.133,
       "paragraph_count": 64
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c2.mp3",
+      "timing_url": "audio/en/the-book-which-tells-the-truth/c2.timing.json",
+      "duration_seconds": 1375.893,
+      "paragraph_count": 91
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c3.mp3",
+      "timing_url": "audio/en/the-book-which-tells-the-truth/c3.timing.json",
+      "duration_seconds": 3366.377,
+      "paragraph_count": 299
+    },
+    {
+      "n": 4,
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c4.mp3",
+      "timing_url": "audio/en/the-book-which-tells-the-truth/c4.timing.json",
+      "duration_seconds": 1272.278,
+      "paragraph_count": 118
+    },
+    {
+      "n": 5,
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c5.mp3",
+      "timing_url": "audio/en/the-book-which-tells-the-truth/c5.timing.json",
+      "duration_seconds": 1566.004,
+      "paragraph_count": 68
+    },
+    {
+      "n": 6,
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c6.mp3",
+      "timing_url": "audio/en/the-book-which-tells-the-truth/c6.timing.json",
+      "duration_seconds": 1012.764,
+      "paragraph_count": 29
+    },
+    {
+      "n": 7,
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c7.mp3",
+      "timing_url": "audio/en/the-book-which-tells-the-truth/c7.timing.json",
+      "duration_seconds": 1565.276,
+      "paragraph_count": 83
     }
   ]
 }

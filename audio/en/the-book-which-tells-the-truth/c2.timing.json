@@ -1,0 +1,554 @@
+{
+  "book": "the-book-which-tells-the-truth",
+  "lang": "en",
+  "chapter": 2,
+  "duration_seconds": 1375.893,
+  "paragraphs": [
+    {
+      "n": 1,
+      "speaker": "Narrator",
+      "start": 0.0,
+      "end": 26.285
+    },
+    {
+      "n": 2,
+      "speaker": "Yahweh",
+      "start": 27.185,
+      "end": 95.823
+    },
+    {
+      "n": 3,
+      "speaker": "Yahweh",
+      "start": 96.423,
+      "end": 122.058
+    },
+    {
+      "n": 4,
+      "speaker": "Yahweh",
+      "start": 122.658,
+      "end": 129.578
+    },
+    {
+      "n": 5,
+      "speaker": "Yahweh",
+      "start": 130.178,
+      "end": 160.503
+    },
+    {
+      "n": 6,
+      "speaker": "Yahweh",
+      "start": 161.103,
+      "end": 163.936
+    },
+    {
+      "n": 7,
+      "speaker": "Yahweh",
+      "start": 164.536,
+      "end": 179.954
+    },
+    {
+      "n": 8,
+      "speaker": "Yahweh",
+      "start": 180.554,
+      "end": 195.972
+    },
+    {
+      "n": 9,
+      "speaker": "Yahweh",
+      "start": 196.572,
+      "end": 200.148
+    },
+    {
+      "n": 10,
+      "speaker": "Yahweh",
+      "start": 200.748,
+      "end": 213.054
+    },
+    {
+      "n": 11,
+      "speaker": "Yahweh",
+      "start": 213.654,
+      "end": 218.438
+    },
+    {
+      "n": 12,
+      "speaker": "Yahweh",
+      "start": 219.038,
+      "end": 232.319
+    },
+    {
+      "n": 13,
+      "speaker": "Yahweh",
+      "start": 232.919,
+      "end": 238.771
+    },
+    {
+      "n": 14,
+      "speaker": "Yahweh",
+      "start": 239.371,
+      "end": 270.393
+    },
+    {
+      "n": 15,
+      "speaker": "Yahweh",
+      "start": 270.993,
+      "end": 276.983
+    },
+    {
+      "n": 16,
+      "speaker": "Yahweh",
+      "start": 277.583,
+      "end": 326.067
+    },
+    {
+      "n": 17,
+      "speaker": "Yahweh",
+      "start": 326.667,
+      "end": 335.722
+    },
+    {
+      "n": 18,
+      "speaker": "Yahweh",
+      "start": 336.322,
+      "end": 357.592
+    },
+    {
+      "n": 19,
+      "speaker": "Yahweh",
+      "start": 358.192,
+      "end": 364.786
+    },
+    {
+      "n": 20,
+      "speaker": "Yahweh",
+      "start": 365.386,
+      "end": 392.739
+    },
+    {
+      "n": 21,
+      "speaker": "Yahweh",
+      "start": 393.339,
+      "end": 401.931
+    },
+    {
+      "n": 22,
+      "speaker": "Yahweh",
+      "start": 402.531,
+      "end": 446.417
+    },
+    {
+      "n": 23,
+      "speaker": "Yahweh",
+      "start": 447.017,
+      "end": 455.236
+    },
+    {
+      "n": 24,
+      "speaker": "Yahweh",
+      "start": 455.836,
+      "end": 481.518
+    },
+    {
+      "n": 25,
+      "speaker": "Yahweh",
+      "start": 482.118,
+      "end": 525.678
+    },
+    {
+      "n": 26,
+      "speaker": "Yahweh",
+      "start": 526.278,
+      "end": 541.511
+    },
+    {
+      "n": 27,
+      "speaker": "Yahweh",
+      "start": 542.111,
+      "end": 545.408
+    },
+    {
+      "n": 28,
+      "speaker": "Yahweh",
+      "start": 546.008,
+      "end": 583.113
+    },
+    {
+      "n": 29,
+      "speaker": "Yahweh",
+      "start": 583.713,
+      "end": 595.602
+    },
+    {
+      "n": 30,
+      "speaker": "Yahweh",
+      "start": 596.202,
+      "end": 605.815
+    },
+    {
+      "n": 31,
+      "speaker": "Yahweh",
+      "start": 606.415,
+      "end": 609.341
+    },
+    {
+      "n": 32,
+      "speaker": "Yahweh",
+      "start": 609.941,
+      "end": 625.312
+    },
+    {
+      "n": 33,
+      "speaker": "Yahweh",
+      "start": 625.912,
+      "end": 636.222
+    },
+    {
+      "n": 34,
+      "speaker": "Yahweh",
+      "start": 636.822,
+      "end": 649.639
+    },
+    {
+      "n": 35,
+      "speaker": "Yahweh",
+      "start": 650.239,
+      "end": 670.394
+    },
+    {
+      "n": 36,
+      "speaker": "Yahweh",
+      "start": 670.994,
+      "end": 675.035
+    },
+    {
+      "n": 37,
+      "speaker": "Yahweh",
+      "start": 675.635,
+      "end": 686.455
+    },
+    {
+      "n": 38,
+      "speaker": "Yahweh",
+      "start": 687.055,
+      "end": 694.671
+    },
+    {
+      "n": 39,
+      "speaker": "Yahweh",
+      "start": 695.271,
+      "end": 708.321
+    },
+    {
+      "n": 40,
+      "speaker": "Yahweh",
+      "start": 708.921,
+      "end": 713.472
+    },
+    {
+      "n": 41,
+      "speaker": "Yahweh",
+      "start": 714.072,
+      "end": 725.868
+    },
+    {
+      "n": 42,
+      "speaker": "Yahweh",
+      "start": 726.468,
+      "end": 736.406
+    },
+    {
+      "n": 43,
+      "speaker": "Yahweh",
+      "start": 737.006,
+      "end": 803.09
+    },
+    {
+      "n": 44,
+      "speaker": "Yahweh",
+      "start": 803.69,
+      "end": 813.164
+    },
+    {
+      "n": 45,
+      "speaker": "Yahweh",
+      "start": 813.764,
+      "end": 824.12
+    },
+    {
+      "n": 46,
+      "speaker": "Narrator",
+      "start": 825.02,
+      "end": 825.902
+    },
+    {
+      "n": 47,
+      "speaker": "Yahweh",
+      "start": 826.802,
+      "end": 840.595
+    },
+    {
+      "n": 48,
+      "speaker": "Yahweh",
+      "start": 841.195,
+      "end": 854.105
+    },
+    {
+      "n": 49,
+      "speaker": "Yahweh",
+      "start": 854.705,
+      "end": 872.724
+    },
+    {
+      "n": 50,
+      "speaker": "Yahweh",
+      "start": 873.324,
+      "end": 886.698
+    },
+    {
+      "n": 51,
+      "speaker": "Yahweh",
+      "start": 887.298,
+      "end": 893.057
+    },
+    {
+      "n": 52,
+      "speaker": "Yahweh",
+      "start": 893.657,
+      "end": 901.412
+    },
+    {
+      "n": 53,
+      "speaker": "Yahweh",
+      "start": 902.012,
+      "end": 916.084
+    },
+    {
+      "n": 54,
+      "speaker": "Yahweh",
+      "start": 916.684,
+      "end": 925.693
+    },
+    {
+      "n": 55,
+      "speaker": "Yahweh",
+      "start": 926.293,
+      "end": 943.847
+    },
+    {
+      "n": 56,
+      "speaker": "Yahweh",
+      "start": 944.447,
+      "end": 952.342
+    },
+    {
+      "n": 57,
+      "speaker": "Yahweh",
+      "start": 952.942,
+      "end": 973.004
+    },
+    {
+      "n": 58,
+      "speaker": "Yahweh",
+      "start": 973.604,
+      "end": 1032.072
+    },
+    {
+      "n": 59,
+      "speaker": "Yahweh",
+      "start": 1032.672,
+      "end": 1036.387
+    },
+    {
+      "n": 60,
+      "speaker": "Yahweh",
+      "start": 1036.987,
+      "end": 1046.507
+    },
+    {
+      "n": 61,
+      "speaker": "Yahweh",
+      "start": 1047.107,
+      "end": 1050.776
+    },
+    {
+      "n": 62,
+      "speaker": "Yahweh",
+      "start": 1051.376,
+      "end": 1064.937
+    },
+    {
+      "n": 63,
+      "speaker": "Yahweh",
+      "start": 1065.537,
+      "end": 1070.181
+    },
+    {
+      "n": 64,
+      "speaker": "Yahweh",
+      "start": 1070.781,
+      "end": 1099.295
+    },
+    {
+      "n": 65,
+      "speaker": "Yahweh",
+      "start": 1099.895,
+      "end": 1108.579
+    },
+    {
+      "n": 66,
+      "speaker": "Yahweh",
+      "start": 1109.179,
+      "end": 1119.442
+    },
+    {
+      "n": 67,
+      "speaker": "Yahweh",
+      "start": 1120.042,
+      "end": 1123.943
+    },
+    {
+      "n": 68,
+      "speaker": "Yahweh",
+      "start": 1124.543,
+      "end": 1134.295
+    },
+    {
+      "n": 69,
+      "speaker": "Yahweh",
+      "start": 1134.895,
+      "end": 1137.868
+    },
+    {
+      "n": 70,
+      "speaker": "Yahweh",
+      "start": 1138.468,
+      "end": 1139.211
+    },
+    {
+      "n": 71,
+      "speaker": "Narrator",
+      "start": 1140.111,
+      "end": 1141.597
+    },
+    {
+      "n": 72,
+      "speaker": "Yahweh",
+      "start": 1142.497,
+      "end": 1168.503
+    },
+    {
+      "n": 73,
+      "speaker": "Yahweh",
+      "start": 1169.103,
+      "end": 1173.468
+    },
+    {
+      "n": 74,
+      "speaker": "Yahweh",
+      "start": 1174.068,
+      "end": 1181.592
+    },
+    {
+      "n": 75,
+      "speaker": "Yahweh",
+      "start": 1182.192,
+      "end": 1192.13
+    },
+    {
+      "n": 76,
+      "speaker": "Yahweh",
+      "start": 1192.73,
+      "end": 1207.451
+    },
+    {
+      "n": 77,
+      "speaker": "Narrator",
+      "start": 1208.351,
+      "end": 1209.791
+    },
+    {
+      "n": 78,
+      "speaker": "Yahweh",
+      "start": 1210.691,
+      "end": 1245.614
+    },
+    {
+      "n": 79,
+      "speaker": "Yahweh",
+      "start": 1246.214,
+      "end": 1249.65
+    },
+    {
+      "n": 80,
+      "speaker": "Yahweh",
+      "start": 1250.25,
+      "end": 1254.476
+    },
+    {
+      "n": 81,
+      "speaker": "Yahweh",
+      "start": 1255.076,
+      "end": 1258.559
+    },
+    {
+      "n": 83,
+      "speaker": "Yahweh",
+      "start": 1259.159,
+      "end": 1268.912
+    },
+    {
+      "n": 84,
+      "speaker": "Yahweh",
+      "start": 1269.512,
+      "end": 1275.828
+    },
+    {
+      "n": 85,
+      "speaker": "Yahweh",
+      "start": 1276.428,
+      "end": 1283.254
+    },
+    {
+      "n": 86,
+      "speaker": "Yahweh",
+      "start": 1283.854,
+      "end": 1296.021
+    },
+    {
+      "n": 87,
+      "speaker": "Yahweh",
+      "start": 1296.621,
+      "end": 1304.888
+    },
+    {
+      "n": 88,
+      "speaker": "Narrator",
+      "start": 1305.788,
+      "end": 1307.506
+    },
+    {
+      "n": 89,
+      "speaker": "Yahweh",
+      "start": 1308.406,
+      "end": 1335.341
+    },
+    {
+      "n": 90,
+      "speaker": "Yahweh",
+      "start": 1335.941,
+      "end": 1342.35
+    },
+    {
+      "n": 91,
+      "speaker": "Yahweh",
+      "start": 1342.95,
+      "end": 1348.523
+    },
+    {
+      "n": 92,
+      "speaker": "Narrator",
+      "start": 1349.423,
+      "end": 1375.893
+    }
+  ]
+}

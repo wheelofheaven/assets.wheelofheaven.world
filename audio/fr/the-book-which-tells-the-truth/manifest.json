@@ -1,0 +1,14 @@
+{
+  "book": "the-book-which-tells-the-truth",
+  "lang": "fr",
+  "model": "eleven_multilingual_v2",
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c1.mp3",
+      "timing_url": "audio/fr/the-book-which-tells-the-truth/c1.timing.json",
+      "duration_seconds": 693.263,
+      "paragraph_count": 64
+    }
+  ]
+}
