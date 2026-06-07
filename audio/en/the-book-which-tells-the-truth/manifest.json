@@ -9,49 +9,119 @@
       "audio_url": "audio/en/the-book-which-tells-the-truth/c1.mp3",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c1.timing.json",
       "duration_seconds": 687.551,
-      "paragraph_count": 64
+      "paragraph_count": 64,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/the-book-which-tells-the-truth/c1.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/the-book-which-tells-the-truth/c1.mp3"
+        }
+      ]
     },
     {
       "n": 2,
       "audio_url": "audio/en/the-book-which-tells-the-truth/c2.mp3",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c2.timing.json",
       "duration_seconds": 1385.321,
-      "paragraph_count": 91
+      "paragraph_count": 91,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/the-book-which-tells-the-truth/c2.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/the-book-which-tells-the-truth/c2.mp3"
+        }
+      ]
     },
     {
       "n": 3,
       "audio_url": "audio/en/the-book-which-tells-the-truth/c3.mp3",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c3.timing.json",
       "duration_seconds": 3366.098,
-      "paragraph_count": 299
+      "paragraph_count": 299,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/the-book-which-tells-the-truth/c3.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/the-book-which-tells-the-truth/c3.mp3"
+        }
+      ]
     },
     {
       "n": 4,
       "audio_url": "audio/en/the-book-which-tells-the-truth/c4.mp3",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c4.timing.json",
       "duration_seconds": 1271.35,
-      "paragraph_count": 118
+      "paragraph_count": 118,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/the-book-which-tells-the-truth/c4.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/the-book-which-tells-the-truth/c4.mp3"
+        }
+      ]
     },
     {
       "n": 5,
       "audio_url": "audio/en/the-book-which-tells-the-truth/c5.mp3",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c5.timing.json",
       "duration_seconds": 1567.397,
-      "paragraph_count": 68
+      "paragraph_count": 68,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/the-book-which-tells-the-truth/c5.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/the-book-which-tells-the-truth/c5.mp3"
+        }
+      ]
     },
     {
       "n": 6,
       "audio_url": "audio/en/the-book-which-tells-the-truth/c6.mp3",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c6.timing.json",
       "duration_seconds": 1014.436,
-      "paragraph_count": 29
+      "paragraph_count": 29,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/the-book-which-tells-the-truth/c6.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/the-book-which-tells-the-truth/c6.mp3"
+        }
+      ]
     },
     {
       "n": 7,
       "audio_url": "audio/en/the-book-which-tells-the-truth/c7.mp3",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c7.timing.json",
       "duration_seconds": 1563.976,
-      "paragraph_count": 83
+      "paragraph_count": 83,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/the-book-which-tells-the-truth/c7.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/the-book-which-tells-the-truth/c7.mp3"
+        }
+      ]
     }
   ]
 }
