@@ -19,7 +19,8 @@
           "type": "audio/mpeg",
           "url": "audio/en/the-book-which-tells-the-truth/c1.mp3"
         }
-      ]
+      ],
+      "ambient_url": "audio/en/the-book-which-tells-the-truth/c1.ambient.opus"
     },
     {
       "n": 2,
@@ -36,7 +37,8 @@
           "type": "audio/mpeg",
           "url": "audio/en/the-book-which-tells-the-truth/c2.mp3"
         }
-      ]
+      ],
+      "ambient_url": "audio/en/the-book-which-tells-the-truth/c2.ambient.opus"
     },
     {
       "n": 3,
@@ -53,7 +55,8 @@
           "type": "audio/mpeg",
           "url": "audio/en/the-book-which-tells-the-truth/c3.mp3"
         }
-      ]
+      ],
+      "ambient_url": "audio/en/the-book-which-tells-the-truth/c3.ambient.opus"
     },
     {
       "n": 4,
@@ -70,7 +73,8 @@
           "type": "audio/mpeg",
           "url": "audio/en/the-book-which-tells-the-truth/c4.mp3"
         }
-      ]
+      ],
+      "ambient_url": "audio/en/the-book-which-tells-the-truth/c4.ambient.opus"
     },
     {
       "n": 5,
@@ -87,7 +91,8 @@
           "type": "audio/mpeg",
           "url": "audio/en/the-book-which-tells-the-truth/c5.mp3"
         }
-      ]
+      ],
+      "ambient_url": "audio/en/the-book-which-tells-the-truth/c5.ambient.opus"
     },
     {
       "n": 6,
@@ -104,7 +109,8 @@
           "type": "audio/mpeg",
           "url": "audio/en/the-book-which-tells-the-truth/c6.mp3"
         }
-      ]
+      ],
+      "ambient_url": "audio/en/the-book-which-tells-the-truth/c6.ambient.opus"
     },
     {
       "n": 7,
@@ -121,7 +127,8 @@
           "type": "audio/mpeg",
           "url": "audio/en/the-book-which-tells-the-truth/c7.mp3"
         }
-      ]
+      ],
+      "ambient_url": "audio/en/the-book-which-tells-the-truth/c7.ambient.opus"
     }
   ]
 }
