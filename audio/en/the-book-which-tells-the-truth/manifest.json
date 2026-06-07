@@ -42,7 +42,7 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/en/the-book-which-tells-the-truth/c3.mp3",
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c3.opus",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c3.timing.json",
       "duration_seconds": 3366.098,
       "paragraph_count": 299,
@@ -50,10 +50,6 @@
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/en/the-book-which-tells-the-truth/c3.opus"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/en/the-book-which-tells-the-truth/c3.mp3"
         }
       ],
       "ambient_url": "audio/en/the-book-which-tells-the-truth/c3.ambient.opus"
