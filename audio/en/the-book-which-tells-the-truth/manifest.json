@@ -20,6 +20,7 @@
           "url": "audio/en/the-book-which-tells-the-truth/c1.mp3"
         }
       ],
+      "title": "The Meeting",
       "ambient_url": "audio/en/the-book-which-tells-the-truth/c1.ambient.opus"
     },
     {
@@ -38,6 +39,7 @@
           "url": "audio/en/the-book-which-tells-the-truth/c2.mp3"
         }
       ],
+      "title": "The Truth",
       "ambient_url": "audio/en/the-book-which-tells-the-truth/c2.ambient.opus"
     },
     {
@@ -52,6 +54,7 @@
           "url": "audio/en/the-book-which-tells-the-truth/c3.opus"
         }
       ],
+      "title": "The Surveillance of the Chosen",
       "ambient_url": "audio/en/the-book-which-tells-the-truth/c3.ambient.opus"
     },
     {
@@ -70,6 +73,7 @@
           "url": "audio/en/the-book-which-tells-the-truth/c4.mp3"
         }
       ],
+      "title": "The Usefulness of the Christ",
       "ambient_url": "audio/en/the-book-which-tells-the-truth/c4.ambient.opus"
     },
     {
@@ -88,6 +92,7 @@
           "url": "audio/en/the-book-which-tells-the-truth/c5.mp3"
         }
       ],
+      "title": "The End of the World",
       "ambient_url": "audio/en/the-book-which-tells-the-truth/c5.ambient.opus"
     },
     {
@@ -106,6 +111,7 @@
           "url": "audio/en/the-book-which-tells-the-truth/c6.mp3"
         }
       ],
+      "title": "The New Commandments",
       "ambient_url": "audio/en/the-book-which-tells-the-truth/c6.ambient.opus"
     },
     {
@@ -124,6 +130,7 @@
           "url": "audio/en/the-book-which-tells-the-truth/c7.mp3"
         }
       ],
+      "title": "The Elohim",
       "ambient_url": "audio/en/the-book-which-tells-the-truth/c7.ambient.opus"
     }
   ]
