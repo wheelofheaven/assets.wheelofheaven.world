@@ -8,8 +8,8 @@
       "n": 1,
       "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.opus",
       "timing_url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.timing.json",
-      "duration_seconds": 2958.079,
-      "paragraph_count": 77,
+      "duration_seconds": 3003.293,
+      "paragraph_count": 78,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
@@ -30,7 +30,8 @@
           "url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.opus"
         }
       ],
-      "title": "The Second Encounter"
+      "title": "The Second Encounter",
+      "ambient_url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.ambient.opus"
     },
     {
       "n": 3,

@@ -8,8 +8,8 @@
       "n": 1,
       "audio_url": "audio/en/the-book-which-tells-the-truth/c1.mp3",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 724.192,
-      "paragraph_count": 64,
+      "duration_seconds": 780.737,
+      "paragraph_count": 65,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
