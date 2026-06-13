@@ -1,0 +1,129 @@
+{
+  "book": "the-book-which-tells-the-truth",
+  "lang": "de",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/de/the-book-which-tells-the-truth/c1.mp3",
+      "timing_url": "audio/de/the-book-which-tells-the-truth/c1.timing.json",
+      "duration_seconds": 918.664,
+      "paragraph_count": 65,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/the-book-which-tells-the-truth/c1.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/de/the-book-which-tells-the-truth/c1.mp3"
+        }
+      ],
+      "title": "Die Begegnung",
+      "ambient_url": "audio/de/the-book-which-tells-the-truth/c1.ambient.opus"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/de/the-book-which-tells-the-truth/c2.mp3",
+      "timing_url": "audio/de/the-book-which-tells-the-truth/c2.timing.json",
+      "duration_seconds": 1498.53,
+      "paragraph_count": 91,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/the-book-which-tells-the-truth/c2.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/de/the-book-which-tells-the-truth/c2.mp3"
+        }
+      ],
+      "title": "Die Wahrheit",
+      "ambient_url": "audio/de/the-book-which-tells-the-truth/c2.ambient.opus"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/de/the-book-which-tells-the-truth/c3.opus",
+      "timing_url": "audio/de/the-book-which-tells-the-truth/c3.timing.json",
+      "duration_seconds": 3530.86,
+      "paragraph_count": 298,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/the-book-which-tells-the-truth/c3.opus"
+        }
+      ],
+      "title": "Die Überwachung der Auserwählten",
+      "ambient_url": "audio/de/the-book-which-tells-the-truth/c3.ambient.opus"
+    },
+    {
+      "n": 4,
+      "audio_url": "audio/de/the-book-which-tells-the-truth/c4.mp3",
+      "timing_url": "audio/de/the-book-which-tells-the-truth/c4.timing.json",
+      "duration_seconds": 1372.256,
+      "paragraph_count": 118,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/the-book-which-tells-the-truth/c4.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/de/the-book-which-tells-the-truth/c4.mp3"
+        }
+      ],
+      "title": "Die Nützlichkeit des Christus",
+      "ambient_url": "audio/de/the-book-which-tells-the-truth/c4.ambient.opus"
+    },
+    {
+      "n": 5,
+      "audio_url": "audio/de/the-book-which-tells-the-truth/c5.opus",
+      "timing_url": "audio/de/the-book-which-tells-the-truth/c5.timing.json",
+      "duration_seconds": 1689.201,
+      "paragraph_count": 67,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/the-book-which-tells-the-truth/c5.opus"
+        }
+      ],
+      "title": "Das Ende der Welt",
+      "ambient_url": "audio/de/the-book-which-tells-the-truth/c5.ambient.opus"
+    },
+    {
+      "n": 6,
+      "audio_url": "audio/de/the-book-which-tells-the-truth/c6.mp3",
+      "timing_url": "audio/de/the-book-which-tells-the-truth/c6.timing.json",
+      "duration_seconds": 1086.132,
+      "paragraph_count": 29,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/the-book-which-tells-the-truth/c6.opus"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/de/the-book-which-tells-the-truth/c6.mp3"
+        }
+      ],
+      "title": "Die Neuen Gebote",
+      "ambient_url": "audio/de/the-book-which-tells-the-truth/c6.ambient.opus"
+    },
+    {
+      "n": 7,
+      "audio_url": "audio/de/the-book-which-tells-the-truth/c7.opus",
+      "timing_url": "audio/de/the-book-which-tells-the-truth/c7.timing.json",
+      "duration_seconds": 1818.752,
+      "paragraph_count": 83,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/the-book-which-tells-the-truth/c7.opus"
+        }
+      ],
+      "title": "Die Elohim",
+      "ambient_url": "audio/de/the-book-which-tells-the-truth/c7.ambient.opus"
+    }
+  ]
+}
