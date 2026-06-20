@@ -6,43 +6,43 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.opus",
+      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.opus?v=10d752750b1b",
       "timing_url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.timing.json",
       "duration_seconds": 3003.293,
       "paragraph_count": 78,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.opus"
+          "url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.opus?v=10d752750b1b"
         }
       ],
       "title": "My Life Until the First Encounter"
     },
     {
       "n": 2,
-      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.opus",
+      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.opus?v=647e4890343a",
       "timing_url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.timing.json",
       "duration_seconds": 4775.573,
       "paragraph_count": 132,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.opus"
+          "url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.opus?v=647e4890343a"
         }
       ],
       "title": "The Second Encounter",
-      "ambient_url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.ambient.opus"
+      "ambient_url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=da13fe49d545"
     },
     {
       "n": 3,
-      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.opus",
+      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.opus?v=b13c01ea19df",
       "timing_url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.timing.json",
       "duration_seconds": 5123.291,
       "paragraph_count": 264,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.opus"
+          "url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.opus?v=b13c01ea19df"
         }
       ],
       "title": "The Keys"
