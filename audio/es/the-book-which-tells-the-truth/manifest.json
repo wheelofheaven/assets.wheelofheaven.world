@@ -1,0 +1,129 @@
+{
+  "book": "the-book-which-tells-the-truth",
+  "lang": "es",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/es/the-book-which-tells-the-truth/c1.mp3?v=af084ad0f44c",
+      "timing_url": "audio/es/the-book-which-tells-the-truth/c1.timing.json",
+      "duration_seconds": 842.781,
+      "paragraph_count": 65,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/es/the-book-which-tells-the-truth/c1.opus?v=c8a3b91958c2"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/es/the-book-which-tells-the-truth/c1.mp3?v=af084ad0f44c"
+        }
+      ],
+      "title": "El Encuentro",
+      "ambient_url": "audio/es/the-book-which-tells-the-truth/c1.ambient.opus?v=80203af78124"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/es/the-book-which-tells-the-truth/c2.mp3?v=e8b2d427aa81",
+      "timing_url": "audio/es/the-book-which-tells-the-truth/c2.timing.json",
+      "duration_seconds": 1517.478,
+      "paragraph_count": 91,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/es/the-book-which-tells-the-truth/c2.opus?v=fc929e7ec67e"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/es/the-book-which-tells-the-truth/c2.mp3?v=e8b2d427aa81"
+        }
+      ],
+      "title": "La Verdad",
+      "ambient_url": "audio/es/the-book-which-tells-the-truth/c2.ambient.opus?v=aab50caf47e1"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/es/the-book-which-tells-the-truth/c3.opus?v=f76bbade53f8",
+      "timing_url": "audio/es/the-book-which-tells-the-truth/c3.timing.json",
+      "duration_seconds": 3565.457,
+      "paragraph_count": 298,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/es/the-book-which-tells-the-truth/c3.opus?v=f76bbade53f8"
+        }
+      ],
+      "title": "La Vigilancia de los Elegidos",
+      "ambient_url": "audio/es/the-book-which-tells-the-truth/c3.ambient.opus?v=150922af99dd"
+    },
+    {
+      "n": 4,
+      "audio_url": "audio/es/the-book-which-tells-the-truth/c4.mp3?v=01f6c7f7284c",
+      "timing_url": "audio/es/the-book-which-tells-the-truth/c4.timing.json",
+      "duration_seconds": 1361.668,
+      "paragraph_count": 118,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/es/the-book-which-tells-the-truth/c4.opus?v=7a364a80f204"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/es/the-book-which-tells-the-truth/c4.mp3?v=01f6c7f7284c"
+        }
+      ],
+      "title": "La Utilidad del Cristo",
+      "ambient_url": "audio/es/the-book-which-tells-the-truth/c4.ambient.opus?v=72ae5ee59412"
+    },
+    {
+      "n": 5,
+      "audio_url": "audio/es/the-book-which-tells-the-truth/c5.opus?v=0ac6053aadad",
+      "timing_url": "audio/es/the-book-which-tells-the-truth/c5.timing.json",
+      "duration_seconds": 1659.526,
+      "paragraph_count": 67,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/es/the-book-which-tells-the-truth/c5.opus?v=0ac6053aadad"
+        }
+      ],
+      "title": "El Fin del Mundo",
+      "ambient_url": "audio/es/the-book-which-tells-the-truth/c5.ambient.opus?v=e011921c2851"
+    },
+    {
+      "n": 6,
+      "audio_url": "audio/es/the-book-which-tells-the-truth/c6.mp3?v=aea382e9f884",
+      "timing_url": "audio/es/the-book-which-tells-the-truth/c6.timing.json",
+      "duration_seconds": 1060.497,
+      "paragraph_count": 29,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/es/the-book-which-tells-the-truth/c6.opus?v=7acf6d9fdbfb"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/es/the-book-which-tells-the-truth/c6.mp3?v=aea382e9f884"
+        }
+      ],
+      "title": "Los Nuevos Mandamientos",
+      "ambient_url": "audio/es/the-book-which-tells-the-truth/c6.ambient.opus?v=aef9e1729bd0"
+    },
+    {
+      "n": 7,
+      "audio_url": "audio/es/the-book-which-tells-the-truth/c7.opus?v=afbc12b032cb",
+      "timing_url": "audio/es/the-book-which-tells-the-truth/c7.timing.json",
+      "duration_seconds": 1706.553,
+      "paragraph_count": 83,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/es/the-book-which-tells-the-truth/c7.opus?v=afbc12b032cb"
+        }
+      ],
+      "title": "Los Elohim",
+      "ambient_url": "audio/es/the-book-which-tells-the-truth/c7.ambient.opus?v=b2619b47af3d"
+    }
+  ]
+}
