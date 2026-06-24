@@ -1,0 +1,129 @@
+{
+  "book": "the-book-which-tells-the-truth",
+  "lang": "ko",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c1.mp3?v=e62d707e77d7",
+      "timing_url": "audio/ko/the-book-which-tells-the-truth/c1.timing.json",
+      "duration_seconds": 972.998,
+      "paragraph_count": 65,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ko/the-book-which-tells-the-truth/c1.opus?v=bdf0d94dde87"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ko/the-book-which-tells-the-truth/c1.mp3?v=e62d707e77d7"
+        }
+      ],
+      "title": "만남",
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c1.ambient.opus?v=6040be4f4d58"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c2.mp3?v=ea3b143ba48a",
+      "timing_url": "audio/ko/the-book-which-tells-the-truth/c2.timing.json",
+      "duration_seconds": 1502.895,
+      "paragraph_count": 91,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ko/the-book-which-tells-the-truth/c2.opus?v=0f3be89495af"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ko/the-book-which-tells-the-truth/c2.mp3?v=ea3b143ba48a"
+        }
+      ],
+      "title": "진실",
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c2.ambient.opus?v=cea5bae8823a"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c3.opus?v=f712aa1e51ae",
+      "timing_url": "audio/ko/the-book-which-tells-the-truth/c3.timing.json",
+      "duration_seconds": 3517.903,
+      "paragraph_count": 298,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ko/the-book-which-tells-the-truth/c3.opus?v=f712aa1e51ae"
+        }
+      ],
+      "title": "택함받은 자들에 대한 감시",
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c3.ambient.opus?v=caa13e273e89"
+    },
+    {
+      "n": 4,
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c4.mp3?v=68d379362f27",
+      "timing_url": "audio/ko/the-book-which-tells-the-truth/c4.timing.json",
+      "duration_seconds": 1320.661,
+      "paragraph_count": 118,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ko/the-book-which-tells-the-truth/c4.opus?v=1f2e20d1c641"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ko/the-book-which-tells-the-truth/c4.mp3?v=68d379362f27"
+        }
+      ],
+      "title": "그리스도의 유용성",
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c4.ambient.opus?v=82deb8fa7c54"
+    },
+    {
+      "n": 5,
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c5.opus?v=3ef5be9e18d5",
+      "timing_url": "audio/ko/the-book-which-tells-the-truth/c5.timing.json",
+      "duration_seconds": 1665.238,
+      "paragraph_count": 67,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ko/the-book-which-tells-the-truth/c5.opus?v=3ef5be9e18d5"
+        }
+      ],
+      "title": "세상의 종말",
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c5.ambient.opus?v=6863a640c61f"
+    },
+    {
+      "n": 6,
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c6.mp3?v=c4a8b1913487",
+      "timing_url": "audio/ko/the-book-which-tells-the-truth/c6.timing.json",
+      "duration_seconds": 1060.311,
+      "paragraph_count": 29,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ko/the-book-which-tells-the-truth/c6.opus?v=31b2e1e388e9"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ko/the-book-which-tells-the-truth/c6.mp3?v=c4a8b1913487"
+        }
+      ],
+      "title": "새 계명",
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c6.ambient.opus?v=5e2a2b0eaa8a"
+    },
+    {
+      "n": 7,
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c7.opus?v=116646da71f4",
+      "timing_url": "audio/ko/the-book-which-tells-the-truth/c7.timing.json",
+      "duration_seconds": 1793.488,
+      "paragraph_count": 83,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ko/the-book-which-tells-the-truth/c7.opus?v=116646da71f4"
+        }
+      ],
+      "title": "엘로힘",
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c7.ambient.opus?v=a2547c0d0e0d"
+    }
+  ]
+}
