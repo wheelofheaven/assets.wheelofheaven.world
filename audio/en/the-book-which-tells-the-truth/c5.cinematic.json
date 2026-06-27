@@ -3,98 +3,44 @@
   "lang": "en",
   "chapter": 5,
   "duration_seconds": 1562.513,
-  "scene_count": 15,
+  "scene_count": 6,
   "caption_count": 192,
   "scenes": [
     {
-      "scene": "default",
+      "scene": "atomic-age",
       "start": 0.0,
-      "end": 7.444,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 7.444,
       "end": 157.262,
-      "image": "elohim-vessel"
+      "image": "atomic-age"
     },
     {
-      "scene": "default",
+      "scene": "end-of-church",
       "start": 157.262,
-      "end": 159.555,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 159.555,
       "end": 438.768,
-      "image": "elohim-vessel"
+      "image": "end-of-church"
     },
     {
-      "scene": "default",
+      "scene": "israel-reborn",
       "start": 438.768,
-      "end": 441.665,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 441.665,
       "end": 580.822,
-      "image": "elohim-vessel"
+      "image": "israel-reborn"
     },
     {
-      "scene": "default",
+      "scene": "end-of-church",
       "start": 580.822,
-      "end": 583.301,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 583.301,
       "end": 791.603,
-      "image": "elohim-vessel"
+      "image": "end-of-church"
     },
     {
-      "scene": "default",
+      "scene": "origin-of-religions",
       "start": 791.603,
-      "end": 794.5,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 794.5,
       "end": 969.21,
-      "image": "elohim-vessel"
+      "image": "origin-of-religions"
     },
     {
-      "scene": "default",
+      "scene": "cosmic-infinity",
       "start": 969.21,
-      "end": 972.711,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 972.711,
-      "end": 1248.656,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 1248.656,
-      "end": 1251.553,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 1251.553,
-      "end": 1560.516,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 1560.516,
       "end": 1562.513,
-      "image": null
+      "image": "cosmic-infinity"
     }
   ],
   "captions": [

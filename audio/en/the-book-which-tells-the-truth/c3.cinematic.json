@@ -3,128 +3,56 @@
   "lang": "en",
   "chapter": 3,
   "duration_seconds": 3276.926,
-  "scene_count": 20,
+  "scene_count": 8,
   "caption_count": 499,
   "scenes": [
     {
-      "scene": "default",
+      "scene": "moses-exodus",
       "start": 0.0,
-      "end": 10.138,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 10.138,
       "end": 498.27,
-      "image": "elohim-vessel"
+      "image": "moses-exodus"
     },
     {
-      "scene": "default",
+      "scene": "jericho-trumpets",
       "start": 498.27,
-      "end": 500.517,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 500.517,
       "end": 667.988,
-      "image": "elohim-vessel"
+      "image": "jericho-trumpets"
     },
     {
-      "scene": "default",
+      "scene": "samson-telepath",
       "start": 667.988,
-      "end": 670.049,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 670.049,
-      "end": 950.799,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 950.799,
-      "end": 953.835,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 953.835,
       "end": 1127.951,
-      "image": "elohim-vessel"
+      "image": "samson-telepath"
     },
     {
-      "scene": "default",
+      "scene": "elijah-chariot",
       "start": 1127.951,
-      "end": 1130.197,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 1130.197,
       "end": 1296.175,
-      "image": "elohim-vessel"
+      "image": "elijah-chariot"
     },
     {
-      "scene": "default",
+      "scene": "loaves-multiplication",
       "start": 1296.175,
-      "end": 1299.071,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 1299.071,
       "end": 1504.608,
-      "image": "elohim-vessel"
+      "image": "loaves-multiplication"
     },
     {
-      "scene": "default",
+      "scene": "ezekiel-vision",
       "start": 1504.608,
-      "end": 1506.901,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 1506.901,
       "end": 2308.271,
-      "image": "elohim-vessel"
+      "image": "ezekiel-vision"
     },
     {
-      "scene": "default",
+      "scene": "last-judgment",
       "start": 2308.271,
-      "end": 2310.517,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 2310.517,
       "end": 2618.409,
-      "image": "elohim-vessel"
+      "image": "last-judgment"
     },
     {
-      "scene": "default",
+      "scene": "satan-faction",
       "start": 2618.409,
-      "end": 2620.145,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 2620.145,
-      "end": 2757.213,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 2757.213,
-      "end": 2759.877,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 2759.877,
       "end": 3276.926,
-      "image": "elohim-vessel"
+      "image": "satan-faction"
     }
   ],
   "captions": [

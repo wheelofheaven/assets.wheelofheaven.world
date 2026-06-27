@@ -3,44 +3,26 @@
   "lang": "en",
   "chapter": 6,
   "duration_seconds": 1015.357,
-  "scene_count": 6,
+  "scene_count": 3,
   "caption_count": 129,
   "scenes": [
     {
-      "scene": "default",
+      "scene": "telepathy-revelation",
       "start": 0.0,
-      "end": 3.129,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 3.129,
       "end": 578.721,
-      "image": "elohim-vessel"
+      "image": "telepathy-revelation"
     },
     {
-      "scene": "default",
+      "scene": "world-government",
       "start": 578.721,
-      "end": 580.875,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 580.875,
       "end": 648.409,
-      "image": "elohim-vessel"
+      "image": "world-government"
     },
     {
-      "scene": "default",
+      "scene": "the-mission",
       "start": 648.409,
-      "end": 650.423,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 650.423,
       "end": 1015.357,
-      "image": "elohim-vessel"
+      "image": "the-mission"
     }
   ],
   "captions": [

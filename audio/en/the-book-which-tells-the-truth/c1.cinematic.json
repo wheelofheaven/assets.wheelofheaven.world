@@ -3,338 +3,50 @@
   "lang": "en",
   "chapter": 1,
   "duration_seconds": 780.737,
-  "scene_count": 55,
+  "scene_count": 7,
   "caption_count": 156,
   "scenes": [
     {
       "scene": "default",
       "start": 0.0,
-      "end": 360.761,
+      "end": 179.043,
       "image": null
     },
     {
       "scene": "elohim-vessel",
-      "start": 360.761,
-      "end": 363.333,
+      "start": 179.043,
+      "end": 270.29,
       "image": "elohim-vessel"
     },
     {
-      "scene": "default",
-      "start": 363.333,
-      "end": 365.394,
-      "image": null
+      "scene": "being-emerges",
+      "start": 270.29,
+      "end": 351.949,
+      "image": "being-emerges"
     },
     {
-      "scene": "elohim-vessel",
-      "start": 365.394,
-      "end": 368.709,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 368.709,
-      "end": 371.281,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 371.281,
-      "end": 372.924,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 372.924,
-      "end": 380.993,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 380.993,
-      "end": 382.729,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 382.729,
-      "end": 385.208,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 385.208,
-      "end": 388.244,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 388.244,
+      "scene": "crater-meeting",
+      "start": 351.949,
       "end": 390.444,
-      "image": null
+      "image": "crater-meeting"
     },
     {
-      "scene": "elohim-vessel",
+      "scene": "telepathy-revelation",
       "start": 390.444,
-      "end": 393.109,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 393.109,
-      "end": 394.752,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 394.752,
-      "end": 403.129,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 403.129,
-      "end": 405.376,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 405.376,
-      "end": 408.691,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 408.691,
-      "end": 410.473,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 410.473,
-      "end": 416.342,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 416.342,
-      "end": 421.793,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 421.793,
-      "end": 424.086,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 424.086,
-      "end": 428.005,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 428.005,
-      "end": 432.063,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 432.063,
-      "end": 439.325,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 439.325,
-      "end": 444.08,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 444.08,
-      "end": 456.357,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 456.357,
-      "end": 463.713,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 463.713,
-      "end": 466.331,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 466.331,
-      "end": 468.903,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 468.903,
-      "end": 471.939,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 471.939,
-      "end": 473.535,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 473.535,
-      "end": 477.083,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 477.083,
       "end": 488.803,
-      "image": "elohim-vessel"
+      "image": "telepathy-revelation"
     },
     {
-      "scene": "default",
+      "scene": "vessel-interior",
       "start": 488.803,
-      "end": 556.019,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 556.019,
-      "end": 562.817,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 562.817,
-      "end": 564.692,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 564.692,
-      "end": 596.243,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 596.243,
-      "end": 598.397,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 598.397,
-      "end": 673.829,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 673.829,
-      "end": 676.122,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 676.122,
-      "end": 685.846,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 685.846,
-      "end": 688.0,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 688.0,
-      "end": 696.562,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 696.562,
-      "end": 698.623,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 698.623,
-      "end": 703.703,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 703.703,
-      "end": 706.414,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 706.414,
-      "end": 709.264,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 709.264,
-      "end": 711.465,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 711.465,
-      "end": 717.845,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 717.845,
-      "end": 720.138,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 720.138,
-      "end": 722.106,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 722.106,
-      "end": 725.003,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 725.003,
-      "end": 735.005,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 735.005,
       "end": 737.066,
-      "image": null
+      "image": "vessel-interior"
     },
     {
-      "scene": "elohim-vessel",
+      "scene": "craft-departs",
       "start": 737.066,
-      "end": 759.096,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 759.096,
       "end": 780.737,
-      "image": null
+      "image": "craft-departs"
     }
   ],
   "captions": [

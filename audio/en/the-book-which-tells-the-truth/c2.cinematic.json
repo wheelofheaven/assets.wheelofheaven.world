@@ -3,74 +3,68 @@
   "lang": "en",
   "chapter": 2,
   "duration_seconds": 1382.337,
-  "scene_count": 11,
+  "scene_count": 10,
   "caption_count": 195,
   "scenes": [
     {
-      "scene": "default",
+      "scene": "crater-meeting",
       "start": 0.0,
       "end": 30.807,
-      "image": null
+      "image": "crater-meeting"
     },
     {
-      "scene": "elohim-vessel",
+      "scene": "primordial-earth-orbit",
       "start": 30.807,
+      "end": 274.151,
+      "image": "primordial-earth-orbit"
+    },
+    {
+      "scene": "creation-laboratory",
+      "start": 274.151,
+      "end": 487.737,
+      "image": "creation-laboratory"
+    },
+    {
+      "scene": "creation-of-man",
+      "start": 487.737,
+      "end": 643.881,
+      "image": "creation-of-man"
+    },
+    {
+      "scene": "eden-expulsion",
+      "start": 643.881,
       "end": 835.372,
-      "image": "elohim-vessel"
+      "image": "eden-expulsion"
     },
     {
-      "scene": "default",
+      "scene": "the-flood",
       "start": 835.372,
-      "end": 837.247,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 837.247,
       "end": 1147.584,
-      "image": "elohim-vessel"
+      "image": "the-flood"
     },
     {
-      "scene": "default",
+      "scene": "tower-of-babel",
       "start": 1147.584,
-      "end": 1149.877,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 1149.877,
       "end": 1216.657,
-      "image": "elohim-vessel"
+      "image": "tower-of-babel"
     },
     {
-      "scene": "default",
+      "scene": "sodom-gomorrah",
       "start": 1216.657,
-      "end": 1218.81,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 1218.81,
       "end": 1313.811,
-      "image": "elohim-vessel"
+      "image": "sodom-gomorrah"
     },
     {
-      "scene": "default",
+      "scene": "sacrifice-of-abraham",
       "start": 1313.811,
-      "end": 1316.29,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 1316.29,
       "end": 1357.492,
-      "image": "elohim-vessel"
+      "image": "sacrifice-of-abraham"
     },
     {
-      "scene": "default",
+      "scene": "craft-departs",
       "start": 1357.492,
       "end": 1382.337,
-      "image": null
+      "image": "craft-departs"
     }
   ],
   "captions": [

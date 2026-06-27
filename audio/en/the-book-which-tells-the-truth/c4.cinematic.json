@@ -3,74 +3,38 @@
   "lang": "en",
   "chapter": 4,
   "duration_seconds": 1262.937,
-  "scene_count": 11,
+  "scene_count": 5,
   "caption_count": 189,
   "scenes": [
     {
-      "scene": "default",
+      "scene": "christ-conception",
       "start": 0.0,
-      "end": 2.107,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 2.107,
       "end": 113.482,
-      "image": "elohim-vessel"
+      "image": "christ-conception"
     },
     {
-      "scene": "default",
+      "scene": "christ-initiation",
       "start": 113.482,
-      "end": 115.683,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 115.683,
       "end": 384.502,
-      "image": "elohim-vessel"
+      "image": "christ-initiation"
     },
     {
-      "scene": "default",
+      "scene": "parallel-worlds",
       "start": 384.502,
-      "end": 386.888,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 386.888,
       "end": 699.407,
-      "image": "elohim-vessel"
+      "image": "parallel-worlds"
     },
     {
-      "scene": "default",
+      "scene": "christ-miracles",
       "start": 699.407,
-      "end": 701.607,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 701.607,
       "end": 886.179,
-      "image": "elohim-vessel"
+      "image": "christ-miracles"
     },
     {
-      "scene": "default",
+      "scene": "parable-talents",
       "start": 886.179,
-      "end": 888.797,
-      "image": null
-    },
-    {
-      "scene": "elohim-vessel",
-      "start": 888.797,
-      "end": 1260.94,
-      "image": "elohim-vessel"
-    },
-    {
-      "scene": "default",
-      "start": 1260.94,
       "end": 1262.937,
-      "image": null
+      "image": "parable-talents"
     }
   ],
   "captions": [
