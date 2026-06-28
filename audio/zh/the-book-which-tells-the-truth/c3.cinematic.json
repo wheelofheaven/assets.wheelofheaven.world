@@ -3,26 +3,92 @@
   "lang": "zh",
   "chapter": 3,
   "duration_seconds": 3272.743,
-  "scene_count": 8,
+  "scene_count": 25,
   "caption_count": 301,
   "scenes": [
     {
-      "scene": "moses-exodus",
+      "scene": "default",
       "start": 0.0,
+      "end": 1.389,
+      "image": null
+    },
+    {
+      "scene": "vessel-interior",
+      "start": 1.389,
+      "end": 42.124,
+      "image": "vessel-interior"
+    },
+    {
+      "scene": "burning-bush-rocket",
+      "start": 42.124,
+      "end": 86.602,
+      "image": "burning-bush-rocket"
+    },
+    {
+      "scene": "pillar-and-sea",
+      "start": 86.602,
+      "end": 143.922,
+      "image": "pillar-and-sea"
+    },
+    {
+      "scene": "manna-desert",
+      "start": 143.922,
+      "end": 173.721,
+      "image": "manna-desert"
+    },
+    {
+      "scene": "sinai-fire",
+      "start": 173.721,
+      "end": 283.886,
+      "image": "sinai-fire"
+    },
+    {
+      "scene": "tabernacle",
+      "start": 283.886,
+      "end": 434.756,
+      "image": "tabernacle"
+    },
+    {
+      "scene": "bronze-serpent",
+      "start": 434.756,
+      "end": 482.563,
+      "image": "bronze-serpent"
+    },
+    {
+      "scene": "jordan-crossing",
+      "start": 482.563,
       "end": 508.344,
-      "image": "moses-exodus"
+      "image": "jordan-crossing"
     },
     {
       "scene": "jericho-trumpets",
       "start": 508.344,
-      "end": 676.39,
+      "end": 611.696,
       "image": "jericho-trumpets"
+    },
+    {
+      "scene": "gideon-300",
+      "start": 611.696,
+      "end": 676.39,
+      "image": "gideon-300"
     },
     {
       "scene": "samson-telepath",
       "start": 676.39,
-      "end": 1147.034,
+      "end": 828.79,
       "image": "samson-telepath"
+    },
+    {
+      "scene": "samuel-telepathy",
+      "start": 828.79,
+      "end": 972.918,
+      "image": "samuel-telepathy"
+    },
+    {
+      "scene": "solomon-temple",
+      "start": 972.918,
+      "end": 1147.034,
+      "image": "solomon-temple"
     },
     {
       "scene": "elijah-chariot",
@@ -33,26 +99,62 @@
     {
       "scene": "loaves-multiplication",
       "start": 1312.332,
-      "end": 1524.806,
+      "end": 1379.115,
       "image": "loaves-multiplication"
     },
     {
-      "scene": "ezekiel-vision",
+      "scene": "isaiah-nuclear",
+      "start": 1379.115,
+      "end": 1524.806,
+      "image": "isaiah-nuclear"
+    },
+    {
+      "scene": "ezekiel-wheels",
       "start": 1524.806,
+      "end": 1982.864,
+      "image": "ezekiel-wheels"
+    },
+    {
+      "scene": "valley-of-bones",
+      "start": 1982.864,
+      "end": 2070.156,
+      "image": "valley-of-bones"
+    },
+    {
+      "scene": "ezekiel-temple",
+      "start": 2070.156,
+      "end": 2241.398,
+      "image": "ezekiel-temple"
+    },
+    {
+      "scene": "daniel-furnace",
+      "start": 2241.398,
       "end": 2316.208,
-      "image": "ezekiel-vision"
+      "image": "daniel-furnace"
     },
     {
       "scene": "last-judgment",
       "start": 2316.208,
-      "end": 2614.272,
+      "end": 2480.521,
       "image": "last-judgment"
     },
     {
-      "scene": "satan-faction",
+      "scene": "jonah-and-scroll",
+      "start": 2480.521,
+      "end": 2614.272,
+      "image": "jonah-and-scroll"
+    },
+    {
+      "scene": "satan-council",
       "start": 2614.272,
+      "end": 2755.491,
+      "image": "satan-council"
+    },
+    {
+      "scene": "creators-bases",
+      "start": 2755.491,
       "end": 3272.743,
-      "image": "satan-faction"
+      "image": "creators-bases"
     }
   ],
   "captions": [

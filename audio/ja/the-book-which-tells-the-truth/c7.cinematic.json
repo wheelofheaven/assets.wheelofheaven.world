@@ -3,32 +3,56 @@
   "lang": "ja",
   "chapter": 7,
   "duration_seconds": 1950.595,
-  "scene_count": 4,
+  "scene_count": 8,
   "caption_count": 83,
   "scenes": [
     {
-      "scene": "atomic-age",
+      "scene": "vessel-interior",
       "start": 0.0,
+      "end": 2.015,
+      "image": "vessel-interior"
+    },
+    {
+      "scene": "atomic-bombs",
+      "start": 2.015,
       "end": 169.26,
-      "image": "atomic-age"
+      "image": "atomic-bombs"
     },
     {
       "scene": "overpopulation",
       "start": 169.26,
-      "end": 493.846,
+      "end": 272.649,
       "image": "overpopulation"
+    },
+    {
+      "scene": "intergalactic-base",
+      "start": 272.649,
+      "end": 493.846,
+      "image": "intergalactic-base"
     },
     {
       "scene": "eternity-science",
       "start": 493.846,
-      "end": 1532.162,
+      "end": 837.687,
       "image": "eternity-science"
     },
     {
-      "scene": "the-embassy",
+      "scene": "elohim-daily-life",
+      "start": 837.687,
+      "end": 1293.399,
+      "image": "elohim-daily-life"
+    },
+    {
+      "scene": "chemical-education",
+      "start": 1293.399,
+      "end": 1532.162,
+      "image": "chemical-education"
+    },
+    {
+      "scene": "raelian-movement",
       "start": 1532.162,
       "end": 1950.595,
-      "image": "the-embassy"
+      "image": "raelian-movement"
     }
   ],
   "captions": [

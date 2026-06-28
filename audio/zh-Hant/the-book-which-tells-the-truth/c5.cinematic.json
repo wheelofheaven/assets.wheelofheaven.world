@@ -3,18 +3,30 @@
   "lang": "zh-Hant",
   "chapter": 5,
   "duration_seconds": 1508.364,
-  "scene_count": 6,
+  "scene_count": 10,
   "caption_count": 67,
   "scenes": [
     {
       "scene": "atomic-age",
       "start": 0.0,
-      "end": 153.036,
+      "end": 129.76,
       "image": "atomic-age"
     },
     {
-      "scene": "end-of-church",
+      "scene": "aquarius-age",
+      "start": 129.76,
+      "end": 153.036,
+      "image": "aquarius-age"
+    },
+    {
+      "scene": "the-revelation",
       "start": 153.036,
+      "end": 270.664,
+      "image": "the-revelation"
+    },
+    {
+      "scene": "end-of-church",
+      "start": 270.664,
       "end": 422.746,
       "image": "end-of-church"
     },
@@ -25,10 +37,10 @@
       "image": "israel-reborn"
     },
     {
-      "scene": "end-of-church",
+      "scene": "church-errors",
       "start": 568.655,
       "end": 766.108,
-      "image": "end-of-church"
+      "image": "church-errors"
     },
     {
       "scene": "origin-of-religions",
@@ -39,8 +51,20 @@
     {
       "scene": "cosmic-infinity",
       "start": 930.897,
-      "end": 1508.364,
+      "end": 1203.098,
       "image": "cosmic-infinity"
+    },
+    {
+      "scene": "evolution-myth",
+      "start": 1203.098,
+      "end": 1505.624,
+      "image": "evolution-myth"
+    },
+    {
+      "scene": "craft-departs",
+      "start": 1505.624,
+      "end": 1508.364,
+      "image": "craft-departs"
     }
   ],
   "captions": [

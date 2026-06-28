@@ -3,7 +3,7 @@
   "lang": "ja",
   "chapter": 4,
   "duration_seconds": 1509.486,
-  "scene_count": 5,
+  "scene_count": 9,
   "caption_count": 118,
   "scenes": [
     {
@@ -15,8 +15,14 @@
     {
       "scene": "christ-initiation",
       "start": 135.356,
-      "end": 462.103,
+      "end": 260.867,
       "image": "christ-initiation"
+    },
+    {
+      "scene": "christ-teaching",
+      "start": 260.867,
+      "end": 462.103,
+      "image": "christ-teaching"
     },
     {
       "scene": "parallel-worlds",
@@ -33,8 +39,26 @@
     {
       "scene": "parable-talents",
       "start": 1057.821,
-      "end": 1509.486,
+      "end": 1152.346,
       "image": "parable-talents"
+    },
+    {
+      "scene": "gethsemane-crucifixion",
+      "start": 1152.346,
+      "end": 1264.043,
+      "image": "gethsemane-crucifixion"
+    },
+    {
+      "scene": "signs-of-the-times",
+      "start": 1264.043,
+      "end": 1505.585,
+      "image": "signs-of-the-times"
+    },
+    {
+      "scene": "craft-departs",
+      "start": 1505.585,
+      "end": 1509.486,
+      "image": "craft-departs"
     }
   ],
   "captions": [

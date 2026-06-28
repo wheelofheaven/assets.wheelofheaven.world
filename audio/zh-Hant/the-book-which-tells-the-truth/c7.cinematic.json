@@ -3,32 +3,56 @@
   "lang": "zh-Hant",
   "chapter": 7,
   "duration_seconds": 1611.026,
-  "scene_count": 4,
+  "scene_count": 8,
   "caption_count": 83,
   "scenes": [
     {
-      "scene": "atomic-age",
+      "scene": "vessel-interior",
       "start": 0.0,
+      "end": 2.015,
+      "image": "vessel-interior"
+    },
+    {
+      "scene": "atomic-bombs",
+      "start": 2.015,
       "end": 130.297,
-      "image": "atomic-age"
+      "image": "atomic-bombs"
     },
     {
       "scene": "overpopulation",
       "start": 130.297,
-      "end": 391.493,
+      "end": 208.515,
       "image": "overpopulation"
+    },
+    {
+      "scene": "intergalactic-base",
+      "start": 208.515,
+      "end": 391.493,
+      "image": "intergalactic-base"
     },
     {
       "scene": "eternity-science",
       "start": 391.493,
-      "end": 1246.603,
+      "end": 676.355,
       "image": "eternity-science"
     },
     {
-      "scene": "the-embassy",
+      "scene": "elohim-daily-life",
+      "start": 676.355,
+      "end": 1052.701,
+      "image": "elohim-daily-life"
+    },
+    {
+      "scene": "chemical-education",
+      "start": 1052.701,
+      "end": 1246.603,
+      "image": "chemical-education"
+    },
+    {
+      "scene": "raelian-movement",
       "start": 1246.603,
       "end": 1611.026,
-      "image": "the-embassy"
+      "image": "raelian-movement"
     }
   ],
   "captions": [

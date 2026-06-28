@@ -3,7 +3,7 @@
   "lang": "es",
   "chapter": 2,
   "duration_seconds": 1517.478,
-  "scene_count": 10,
+  "scene_count": 16,
   "caption_count": 199,
   "scenes": [
     {
@@ -13,22 +13,46 @@
       "image": "crater-meeting"
     },
     {
-      "scene": "primordial-earth-orbit",
+      "scene": "elohim-homeworld",
       "start": 30.25,
+      "end": 132.178,
+      "image": "elohim-homeworld"
+    },
+    {
+      "scene": "primordial-earth-orbit",
+      "start": 132.178,
       "end": 294.631,
       "image": "primordial-earth-orbit"
     },
     {
       "scene": "creation-laboratory",
       "start": 294.631,
-      "end": 528.558,
+      "end": 392.975,
       "image": "creation-laboratory"
+    },
+    {
+      "scene": "sea-and-sky-life",
+      "start": 392.975,
+      "end": 489.602,
+      "image": "sea-and-sky-life"
+    },
+    {
+      "scene": "land-animals",
+      "start": 489.602,
+      "end": 528.558,
+      "image": "land-animals"
     },
     {
       "scene": "creation-of-man",
       "start": 528.558,
-      "end": 697.147,
+      "end": 637.63,
       "image": "creation-of-man"
+    },
+    {
+      "scene": "eden-garden",
+      "start": 637.63,
+      "end": 697.147,
+      "image": "eden-garden"
     },
     {
       "scene": "eden-expulsion",
@@ -37,10 +61,22 @@
       "image": "eden-expulsion"
     },
     {
-      "scene": "the-flood",
+      "scene": "nephilim",
       "start": 900.574,
-      "end": 1242.228,
+      "end": 1032.354,
+      "image": "nephilim"
+    },
+    {
+      "scene": "the-flood",
+      "start": 1032.354,
+      "end": 1208.975,
       "image": "the-flood"
+    },
+    {
+      "scene": "repopulation",
+      "start": 1208.975,
+      "end": 1242.228,
+      "image": "repopulation"
     },
     {
       "scene": "tower-of-babel",

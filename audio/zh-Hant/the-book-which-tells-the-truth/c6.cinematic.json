@@ -3,14 +3,26 @@
   "lang": "zh-Hant",
   "chapter": 6,
   "duration_seconds": 967.803,
-  "scene_count": 3,
+  "scene_count": 7,
   "caption_count": 29,
   "scenes": [
     {
-      "scene": "telepathy-revelation",
+      "scene": "vessel-interior",
       "start": 0.0,
+      "end": 7.909,
+      "image": "vessel-interior"
+    },
+    {
+      "scene": "geniocracy",
+      "start": 7.909,
+      "end": 226.904,
+      "image": "geniocracy"
+    },
+    {
+      "scene": "humanitarianism",
+      "start": 226.904,
       "end": 517.235,
-      "image": "telepathy-revelation"
+      "image": "humanitarianism"
     },
     {
       "scene": "world-government",
@@ -21,8 +33,20 @@
     {
       "scene": "the-mission",
       "start": 588.966,
-      "end": 967.803,
+      "end": 658.404,
       "image": "the-mission"
+    },
+    {
+      "scene": "the-embassy",
+      "start": 658.404,
+      "end": 963.763,
+      "image": "the-embassy"
+    },
+    {
+      "scene": "raelian-movement",
+      "start": 963.763,
+      "end": 967.803,
+      "image": "raelian-movement"
     }
   ],
   "captions": [

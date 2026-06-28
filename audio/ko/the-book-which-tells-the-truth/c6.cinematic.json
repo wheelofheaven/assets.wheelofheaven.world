@@ -3,14 +3,26 @@
   "lang": "ko",
   "chapter": 6,
   "duration_seconds": 1060.311,
-  "scene_count": 3,
+  "scene_count": 7,
   "caption_count": 155,
   "scenes": [
     {
-      "scene": "telepathy-revelation",
+      "scene": "vessel-interior",
       "start": 0.0,
+      "end": 7.398,
+      "image": "vessel-interior"
+    },
+    {
+      "scene": "geniocracy",
+      "start": 7.398,
+      "end": 248.313,
+      "image": "geniocracy"
+    },
+    {
+      "scene": "humanitarianism",
+      "start": 248.313,
       "end": 586.523,
-      "image": "telepathy-revelation"
+      "image": "humanitarianism"
     },
     {
       "scene": "world-government",
@@ -21,8 +33,20 @@
     {
       "scene": "the-mission",
       "start": 658.347,
-      "end": 1060.311,
+      "end": 735.633,
       "image": "the-mission"
+    },
+    {
+      "scene": "the-embassy",
+      "start": 735.633,
+      "end": 1055.714,
+      "image": "the-embassy"
+    },
+    {
+      "scene": "raelian-movement",
+      "start": 1055.714,
+      "end": 1060.311,
+      "image": "raelian-movement"
     }
   ],
   "captions": [
