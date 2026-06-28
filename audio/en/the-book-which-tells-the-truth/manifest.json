@@ -6,18 +6,18 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/en/the-book-which-tells-the-truth/c1.mp3?v=83f2ed23f5cc",
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c1.mp3?v=8331394abcfe",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 780.737,
+      "duration_seconds": 785.892,
       "paragraph_count": 65,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/the-book-which-tells-the-truth/c1.opus?v=5771398123ab"
+          "url": "audio/en/the-book-which-tells-the-truth/c1.opus?v=f4a5fa2cbb6d"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/en/the-book-which-tells-the-truth/c1.mp3?v=83f2ed23f5cc"
+          "url": "audio/en/the-book-which-tells-the-truth/c1.mp3?v=8331394abcfe"
         }
       ],
       "title": "The Meeting",
@@ -25,18 +25,18 @@
     },
     {
       "n": 2,
-      "audio_url": "audio/en/the-book-which-tells-the-truth/c2.mp3?v=21d1be31b8ec",
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c2.mp3?v=c266a5e8b759",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c2.timing.json",
-      "duration_seconds": 1382.337,
+      "duration_seconds": 1399.334,
       "paragraph_count": 91,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/the-book-which-tells-the-truth/c2.opus?v=2a5bf58a7394"
+          "url": "audio/en/the-book-which-tells-the-truth/c2.opus?v=3f91649691a8"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/en/the-book-which-tells-the-truth/c2.mp3?v=21d1be31b8ec"
+          "url": "audio/en/the-book-which-tells-the-truth/c2.mp3?v=c266a5e8b759"
         }
       ],
       "title": "The Truth",
@@ -44,14 +44,18 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/en/the-book-which-tells-the-truth/c3.opus?v=94c0272d7fd3",
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c3.mp3?v=27c6343e4cc6",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3276.926,
+      "duration_seconds": 3315.889,
       "paragraph_count": 298,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/the-book-which-tells-the-truth/c3.opus?v=94c0272d7fd3"
+          "url": "audio/en/the-book-which-tells-the-truth/c3.opus?v=4c29e641ef88"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/the-book-which-tells-the-truth/c3.mp3?v=27c6343e4cc6"
         }
       ],
       "title": "The Surveillance of the Chosen",
@@ -66,7 +70,7 @@
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/the-book-which-tells-the-truth/c4.opus?v=1a62c198a8a4"
+          "url": "audio/en/the-book-which-tells-the-truth/c4.opus?v=96a236db987a"
         },
         {
           "type": "audio/mpeg",
@@ -78,18 +82,18 @@
     },
     {
       "n": 5,
-      "audio_url": "audio/en/the-book-which-tells-the-truth/c5.mp3?v=8860cdabd234",
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c5.mp3?v=7ac639cf1180",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c5.timing.json",
-      "duration_seconds": 1562.513,
+      "duration_seconds": 1571.615,
       "paragraph_count": 67,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/the-book-which-tells-the-truth/c5.opus?v=418327b149cc"
+          "url": "audio/en/the-book-which-tells-the-truth/c5.opus?v=9b3faf4cbf70"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/en/the-book-which-tells-the-truth/c5.mp3?v=8860cdabd234"
+          "url": "audio/en/the-book-which-tells-the-truth/c5.mp3?v=7ac639cf1180"
         }
       ],
       "title": "The End of the World",
@@ -97,18 +101,18 @@
     },
     {
       "n": 6,
-      "audio_url": "audio/en/the-book-which-tells-the-truth/c6.mp3?v=640b029ab1d6",
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c6.mp3?v=2f9786f6b291",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c6.timing.json",
-      "duration_seconds": 1015.357,
+      "duration_seconds": 1018.237,
       "paragraph_count": 29,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/the-book-which-tells-the-truth/c6.opus?v=afcf94fb1cbe"
+          "url": "audio/en/the-book-which-tells-the-truth/c6.opus?v=1ed7aa529e3f"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/en/the-book-which-tells-the-truth/c6.mp3?v=640b029ab1d6"
+          "url": "audio/en/the-book-which-tells-the-truth/c6.mp3?v=2f9786f6b291"
         }
       ],
       "title": "The New Commandments",
@@ -116,18 +120,18 @@
     },
     {
       "n": 7,
-      "audio_url": "audio/en/the-book-which-tells-the-truth/c7.mp3?v=e07b3bd56d23",
+      "audio_url": "audio/en/the-book-which-tells-the-truth/c7.mp3?v=bd814c513e04",
       "timing_url": "audio/en/the-book-which-tells-the-truth/c7.timing.json",
-      "duration_seconds": 1623.472,
+      "duration_seconds": 1621.986,
       "paragraph_count": 83,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/en/the-book-which-tells-the-truth/c7.opus?v=506bfc3c0fb3"
+          "url": "audio/en/the-book-which-tells-the-truth/c7.opus?v=f004f677cff4"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/en/the-book-which-tells-the-truth/c7.mp3?v=e07b3bd56d23"
+          "url": "audio/en/the-book-which-tells-the-truth/c7.mp3?v=bd814c513e04"
         }
       ],
       "title": "The Elohim",
