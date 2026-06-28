@@ -3,62 +3,122 @@
   "lang": "en",
   "chapter": 2,
   "duration_seconds": 4775.573,
-  "scene_count": 10,
+  "scene_count": 20,
   "caption_count": 494,
   "scenes": [
     {
-      "scene": "default",
+      "scene": "night-summons",
       "start": 0.0,
-      "end": 449.044,
-      "image": null
+      "end": 696.775,
+      "image": "night-summons"
     },
     {
-      "scene": "night-summons",
-      "start": 449.044,
+      "scene": "base-dock",
+      "start": 696.775,
       "end": 814.586,
-      "image": "night-summons"
+      "image": "base-dock"
     },
     {
       "scene": "paradise-hall",
       "start": 814.586,
-      "end": 2237.486,
+      "end": 943.388,
       "image": "paradise-hall"
     },
     {
-      "scene": "elohim-planet",
+      "scene": "second-message",
+      "start": 943.388,
+      "end": 1066.185,
+      "image": "second-message"
+    },
+    {
+      "scene": "infinity-teaching",
+      "start": 1066.185,
+      "end": 1807.039,
+      "image": "infinity-teaching"
+    },
+    {
+      "scene": "paradise-via-tech",
+      "start": 1807.039,
+      "end": 2237.486,
+      "image": "paradise-via-tech"
+    },
+    {
+      "scene": "the-great-ship",
       "start": 2237.486,
       "end": 2353.485,
-      "image": "elohim-planet"
+      "image": "the-great-ship"
     },
     {
       "scene": "eternal-banquet",
       "start": 2353.485,
-      "end": 3051.552,
+      "end": 2604.86,
       "image": "eternal-banquet"
     },
     {
-      "scene": "robot-creation-machine",
+      "scene": "biological-robots",
+      "start": 2604.86,
+      "end": 2972.934,
+      "image": "biological-robots"
+    },
+    {
+      "scene": "the-prophets",
+      "start": 2972.934,
+      "end": 3051.552,
+      "image": "the-prophets"
+    },
+    {
+      "scene": "fly-to-grotto",
       "start": 3051.552,
-      "end": 3460.196,
+      "end": 3138.891,
+      "image": "fly-to-grotto"
+    },
+    {
+      "scene": "robot-creation-machine",
+      "start": 3138.891,
+      "end": 3255.851,
       "image": "robot-creation-machine"
     },
     {
-      "scene": "paradise-residence",
+      "scene": "cloning-self",
+      "start": 3255.851,
+      "end": 3460.196,
+      "image": "cloning-self"
+    },
+    {
+      "scene": "robot-guide-residence",
       "start": 3460.196,
+      "end": 3542.962,
+      "image": "robot-guide-residence"
+    },
+    {
+      "scene": "paradise-residence",
+      "start": 3542.962,
       "end": 3838.84,
       "image": "paradise-residence"
     },
     {
       "scene": "mind-machine",
       "start": 3838.84,
-      "end": 4360.117,
+      "end": 3965.763,
       "image": "mind-machine"
     },
     {
-      "scene": "jerusalem-embassy",
-      "start": 4360.117,
+      "scene": "guides-congregation",
+      "start": 3965.763,
+      "end": 4342.66,
+      "image": "guides-congregation"
+    },
+    {
+      "scene": "build-embassy",
+      "start": 4342.66,
+      "end": 4434.677,
+      "image": "build-embassy"
+    },
+    {
+      "scene": "ambassador-appeal",
+      "start": 4434.677,
       "end": 4661.785,
-      "image": "jerusalem-embassy"
+      "image": "ambassador-appeal"
     },
     {
       "scene": "planet-departure",

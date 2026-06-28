@@ -3,38 +3,128 @@
   "lang": "en",
   "chapter": 3,
   "duration_seconds": 5123.291,
-  "scene_count": 5,
+  "scene_count": 20,
   "caption_count": 528,
   "scenes": [
     {
       "scene": "the-keys",
       "start": 0.0,
-      "end": 619.975,
+      "end": 332.475,
       "image": "the-keys"
     },
     {
-      "scene": "sensual-meditation",
-      "start": 619.975,
+      "scene": "awaken-the-child",
+      "start": 332.475,
+      "end": 582.928,
+      "image": "awaken-the-child"
+    },
+    {
+      "scene": "sensual-awakening",
+      "start": 582.928,
+      "end": 888.028,
+      "image": "sensual-awakening"
+    },
+    {
+      "scene": "free-union",
+      "start": 888.028,
+      "end": 995.468,
+      "image": "free-union"
+    },
+    {
+      "scene": "conscious-parenthood",
+      "start": 995.468,
+      "end": 1390.001,
+      "image": "conscious-parenthood"
+    },
+    {
+      "scene": "caring-elders",
+      "start": 1390.001,
       "end": 1651.831,
-      "image": "sensual-meditation"
+      "image": "caring-elders"
     },
     {
       "scene": "geniocracy",
       "start": 1651.831,
-      "end": 2979.708,
+      "end": 1938.077,
       "image": "geniocracy"
     },
     {
-      "scene": "meditation-cosmos",
-      "start": 2979.708,
-      "end": 3943.896,
-      "image": "meditation-cosmos"
+      "scene": "beyond-capitalism",
+      "start": 1938.077,
+      "end": 2073.056,
+      "image": "beyond-capitalism"
     },
     {
-      "scene": "spreading-message",
-      "start": 3943.896,
+      "scene": "biological-robot-future",
+      "start": 2073.056,
+      "end": 2122.782,
+      "image": "biological-robot-future"
+    },
+    {
+      "scene": "respect-for-life",
+      "start": 2122.782,
+      "end": 2279.762,
+      "image": "respect-for-life"
+    },
+    {
+      "scene": "meditation-before-meals",
+      "start": 2279.762,
+      "end": 2373.072,
+      "image": "meditation-before-meals"
+    },
+    {
+      "scene": "prayer-to-elohim",
+      "start": 2373.072,
+      "end": 2443.152,
+      "image": "prayer-to-elohim"
+    },
+    {
+      "scene": "art-and-literature",
+      "start": 2443.152,
+      "end": 2772.901,
+      "image": "art-and-literature"
+    },
+    {
+      "scene": "abolish-death-penalty",
+      "start": 2772.901,
+      "end": 2973.442,
+      "image": "abolish-death-penalty"
+    },
+    {
+      "scene": "world-government",
+      "start": 2973.442,
+      "end": 3127.206,
+      "image": "world-government"
+    },
+    {
+      "scene": "age-of-revelation",
+      "start": 3127.206,
+      "end": 3305.27,
+      "image": "age-of-revelation"
+    },
+    {
+      "scene": "meditation-technique",
+      "start": 3305.27,
+      "end": 3916.926,
+      "image": "meditation-technique"
+    },
+    {
+      "scene": "scientific-reincarnation",
+      "start": 3916.926,
+      "end": 4184.503,
+      "image": "scientific-reincarnation"
+    },
+    {
+      "scene": "address-to-faiths",
+      "start": 4184.503,
+      "end": 4671.801,
+      "image": "address-to-faiths"
+    },
+    {
+      "scene": "the-awakening-call",
+      "start": 4671.801,
       "end": 5123.291,
-      "image": "spreading-message"
+      "image": "the-awakening-call"
     }
   ],
   "captions": [

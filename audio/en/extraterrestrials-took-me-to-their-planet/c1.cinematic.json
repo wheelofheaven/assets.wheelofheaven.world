@@ -3,44 +3,92 @@
   "lang": "en",
   "chapter": 1,
   "duration_seconds": 3003.293,
-  "scene_count": 6,
+  "scene_count": 14,
   "caption_count": 276,
   "scenes": [
     {
       "scene": "default",
       "start": 0.0,
-      "end": 331.772,
+      "end": 45.214,
       "image": null
+    },
+    {
+      "scene": "rael-writing",
+      "start": 45.214,
+      "end": 331.772,
+      "image": "rael-writing"
     },
     {
       "scene": "childhood-ambert",
       "start": 331.772,
-      "end": 729.318,
+      "end": 460.167,
       "image": "childhood-ambert"
     },
     {
+      "scene": "grandmother-sighting",
+      "start": 460.167,
+      "end": 629.29,
+      "image": "grandmother-sighting"
+    },
+    {
+      "scene": "childhood-animals",
+      "start": 629.29,
+      "end": 785.364,
+      "image": "childhood-animals"
+    },
+    {
       "scene": "young-speed",
-      "start": 729.318,
-      "end": 1375.087,
+      "start": 785.364,
+      "end": 877.071,
       "image": "young-speed"
     },
     {
-      "scene": "street-singer",
+      "scene": "boarding-school",
+      "start": 877.071,
+      "end": 1375.087,
+      "image": "boarding-school"
+    },
+    {
+      "scene": "runaway-guitar",
       "start": 1375.087,
-      "end": 1864.544,
+      "end": 1516.389,
+      "image": "runaway-guitar"
+    },
+    {
+      "scene": "street-singer",
+      "start": 1516.389,
+      "end": 1761.884,
       "image": "street-singer"
     },
     {
+      "scene": "singer-tours",
+      "start": 1761.884,
+      "end": 1986.48,
+      "image": "singer-tours"
+    },
+    {
+      "scene": "becoming-driver",
+      "start": 1986.48,
+      "end": 2253.58,
+      "image": "becoming-driver"
+    },
+    {
       "scene": "racing-driver",
-      "start": 1864.544,
-      "end": 2412.482,
+      "start": 2253.58,
+      "end": 2354.343,
       "image": "racing-driver"
     },
     {
-      "scene": "elohim-vessel",
-      "start": 2412.482,
+      "scene": "crater-recall",
+      "start": 2354.343,
+      "end": 2456.593,
+      "image": "crater-recall"
+    },
+    {
+      "scene": "spreading-message",
+      "start": 2456.593,
       "end": 3003.293,
-      "image": "elohim-vessel"
+      "image": "spreading-message"
     }
   ],
   "captions": [
