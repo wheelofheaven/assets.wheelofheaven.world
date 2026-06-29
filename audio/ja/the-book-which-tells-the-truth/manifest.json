@@ -6,9 +6,9 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/ja/the-book-which-tells-the-truth/c1.mp3?v=4ba29a400ebb",
+      "audio_url": "audio/ja/the-book-which-tells-the-truth/c1.mp3?v=d885cfe6fbfb",
       "timing_url": "audio/ja/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 961.017,
+      "duration_seconds": 952.054,
       "paragraph_count": 65,
       "formats": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ja/the-book-which-tells-the-truth/c1.mp3?v=4ba29a400ebb"
+          "url": "audio/ja/the-book-which-tells-the-truth/c1.mp3?v=d885cfe6fbfb"
         }
       ],
       "title": "出会い",
@@ -25,14 +25,18 @@
     },
     {
       "n": 2,
-      "audio_url": "audio/ja/the-book-which-tells-the-truth/c2.opus?v=6c5cfb253b8c",
+      "audio_url": "audio/ja/the-book-which-tells-the-truth/c2.mp3?v=51c82d11e4b4",
       "timing_url": "audio/ja/the-book-which-tells-the-truth/c2.timing.json",
-      "duration_seconds": 1673.051,
+      "duration_seconds": 1670.915,
       "paragraph_count": 91,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/ja/the-book-which-tells-the-truth/c2.opus?v=6c5cfb253b8c"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ja/the-book-which-tells-the-truth/c2.mp3?v=51c82d11e4b4"
         }
       ],
       "title": "真実",
@@ -40,14 +44,18 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/ja/the-book-which-tells-the-truth/c3.opus?v=f042e34af56e",
+      "audio_url": "audio/ja/the-book-which-tells-the-truth/c3.mp3?v=e430cca11e2c",
       "timing_url": "audio/ja/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3997.716,
+      "duration_seconds": 3997.623,
       "paragraph_count": 301,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/ja/the-book-which-tells-the-truth/c3.opus?v=f042e34af56e"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ja/the-book-which-tells-the-truth/c3.mp3?v=e430cca11e2c"
         }
       ],
       "title": "選ばれた者たちの監視",
@@ -55,9 +63,9 @@
     },
     {
       "n": 4,
-      "audio_url": "audio/ja/the-book-which-tells-the-truth/c4.mp3?v=26454c571ce9",
+      "audio_url": "audio/ja/the-book-which-tells-the-truth/c4.mp3?v=134bd927f9ff",
       "timing_url": "audio/ja/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1509.486,
+      "duration_seconds": 1509.254,
       "paragraph_count": 118,
       "formats": [
         {
@@ -66,7 +74,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ja/the-book-which-tells-the-truth/c4.mp3?v=26454c571ce9"
+          "url": "audio/ja/the-book-which-tells-the-truth/c4.mp3?v=134bd927f9ff"
         }
       ],
       "title": "キリストの有用性",
@@ -74,14 +82,18 @@
     },
     {
       "n": 5,
-      "audio_url": "audio/ja/the-book-which-tells-the-truth/c5.opus?v=122190964981",
+      "audio_url": "audio/ja/the-book-which-tells-the-truth/c5.mp3?v=459ac6445b54",
       "timing_url": "audio/ja/the-book-which-tells-the-truth/c5.timing.json",
-      "duration_seconds": 1836.927,
+      "duration_seconds": 1837.67,
       "paragraph_count": 67,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/ja/the-book-which-tells-the-truth/c5.opus?v=122190964981"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ja/the-book-which-tells-the-truth/c5.mp3?v=459ac6445b54"
         }
       ],
       "title": "世界の終わり",
@@ -89,9 +101,9 @@
     },
     {
       "n": 6,
-      "audio_url": "audio/ja/the-book-which-tells-the-truth/c6.mp3?v=a6421c4ad270",
+      "audio_url": "audio/ja/the-book-which-tells-the-truth/c6.mp3?v=8b5b678a7b65",
       "timing_url": "audio/ja/the-book-which-tells-the-truth/c6.timing.json",
-      "duration_seconds": 1169.213,
+      "duration_seconds": 1168.934,
       "paragraph_count": 29,
       "formats": [
         {
@@ -100,7 +112,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ja/the-book-which-tells-the-truth/c6.mp3?v=a6421c4ad270"
+          "url": "audio/ja/the-book-which-tells-the-truth/c6.mp3?v=8b5b678a7b65"
         }
       ],
       "title": "新たな戒め",
@@ -108,14 +120,18 @@
     },
     {
       "n": 7,
-      "audio_url": "audio/ja/the-book-which-tells-the-truth/c7.opus?v=90e0f03325b0",
+      "audio_url": "audio/ja/the-book-which-tells-the-truth/c7.mp3?v=dd948f8f3739",
       "timing_url": "audio/ja/the-book-which-tells-the-truth/c7.timing.json",
-      "duration_seconds": 1950.595,
+      "duration_seconds": 1951.152,
       "paragraph_count": 83,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/ja/the-book-which-tells-the-truth/c7.opus?v=90e0f03325b0"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ja/the-book-which-tells-the-truth/c7.mp3?v=dd948f8f3739"
         }
       ],
       "title": "エロヒム",

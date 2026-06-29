@@ -6,9 +6,9 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/ru/the-book-which-tells-the-truth/c1.mp3?v=76e4f00e7042",
+      "audio_url": "audio/ru/the-book-which-tells-the-truth/c1.mp3?v=4bd9555f2c05",
       "timing_url": "audio/ru/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 815.428,
+      "duration_seconds": 819.654,
       "paragraph_count": 65,
       "formats": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ru/the-book-which-tells-the-truth/c1.mp3?v=76e4f00e7042"
+          "url": "audio/ru/the-book-which-tells-the-truth/c1.mp3?v=4bd9555f2c05"
         }
       ],
       "title": "Встреча",
@@ -25,9 +25,9 @@
     },
     {
       "n": 2,
-      "audio_url": "audio/ru/the-book-which-tells-the-truth/c2.mp3?v=3dd6dcd9fa60",
+      "audio_url": "audio/ru/the-book-which-tells-the-truth/c2.mp3?v=c63c64507223",
       "timing_url": "audio/ru/the-book-which-tells-the-truth/c2.timing.json",
-      "duration_seconds": 1432.028,
+      "duration_seconds": 1425.852,
       "paragraph_count": 91,
       "formats": [
         {
@@ -36,7 +36,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ru/the-book-which-tells-the-truth/c2.mp3?v=3dd6dcd9fa60"
+          "url": "audio/ru/the-book-which-tells-the-truth/c2.mp3?v=c63c64507223"
         }
       ],
       "title": "Истина",
@@ -44,14 +44,18 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/ru/the-book-which-tells-the-truth/c3.opus?v=818950e1c8ba",
+      "audio_url": "audio/ru/the-book-which-tells-the-truth/c3.mp3?v=51b4a0744088",
       "timing_url": "audio/ru/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3431.06,
+      "duration_seconds": 3432.221,
       "paragraph_count": 298,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/ru/the-book-which-tells-the-truth/c3.opus?v=818950e1c8ba"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ru/the-book-which-tells-the-truth/c3.mp3?v=51b4a0744088"
         }
       ],
       "title": "Надзор за избранными",
@@ -59,9 +63,9 @@
     },
     {
       "n": 4,
-      "audio_url": "audio/ru/the-book-which-tells-the-truth/c4.mp3?v=1070bd456ac1",
+      "audio_url": "audio/ru/the-book-which-tells-the-truth/c4.mp3?v=63cf4f920559",
       "timing_url": "audio/ru/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1293.215,
+      "duration_seconds": 1293.123,
       "paragraph_count": 118,
       "formats": [
         {
@@ -70,7 +74,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ru/the-book-which-tells-the-truth/c4.mp3?v=1070bd456ac1"
+          "url": "audio/ru/the-book-which-tells-the-truth/c4.mp3?v=63cf4f920559"
         }
       ],
       "title": "Польза Христа",
@@ -78,9 +82,9 @@
     },
     {
       "n": 5,
-      "audio_url": "audio/ru/the-book-which-tells-the-truth/c5.mp3?v=3083a03b6842",
+      "audio_url": "audio/ru/the-book-which-tells-the-truth/c5.mp3?v=cf0da05cab01",
       "timing_url": "audio/ru/the-book-which-tells-the-truth/c5.timing.json",
-      "duration_seconds": 1621.399,
+      "duration_seconds": 1621.074,
       "paragraph_count": 67,
       "formats": [
         {
@@ -89,7 +93,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ru/the-book-which-tells-the-truth/c5.mp3?v=3083a03b6842"
+          "url": "audio/ru/the-book-which-tells-the-truth/c5.mp3?v=cf0da05cab01"
         }
       ],
       "title": "Конец мира",
@@ -97,9 +101,9 @@
     },
     {
       "n": 6,
-      "audio_url": "audio/ru/the-book-which-tells-the-truth/c6.mp3?v=2f8b321a61dd",
+      "audio_url": "audio/ru/the-book-which-tells-the-truth/c6.mp3?v=1b95521209a1",
       "timing_url": "audio/ru/the-book-which-tells-the-truth/c6.timing.json",
-      "duration_seconds": 1072.386,
+      "duration_seconds": 1072.804,
       "paragraph_count": 29,
       "formats": [
         {
@@ -108,7 +112,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ru/the-book-which-tells-the-truth/c6.mp3?v=2f8b321a61dd"
+          "url": "audio/ru/the-book-which-tells-the-truth/c6.mp3?v=1b95521209a1"
         }
       ],
       "title": "Новые заповеди",
@@ -116,14 +120,18 @@
     },
     {
       "n": 7,
-      "audio_url": "audio/ru/the-book-which-tells-the-truth/c7.opus?v=2899c9ad5d07",
+      "audio_url": "audio/ru/the-book-which-tells-the-truth/c7.mp3?v=44f8d59293b6",
       "timing_url": "audio/ru/the-book-which-tells-the-truth/c7.timing.json",
-      "duration_seconds": 1657.512,
+      "duration_seconds": 1660.299,
       "paragraph_count": 83,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/ru/the-book-which-tells-the-truth/c7.opus?v=2899c9ad5d07"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ru/the-book-which-tells-the-truth/c7.mp3?v=44f8d59293b6"
         }
       ],
       "title": "Элохим",

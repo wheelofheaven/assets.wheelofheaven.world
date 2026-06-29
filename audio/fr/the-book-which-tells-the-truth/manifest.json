@@ -6,9 +6,9 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c1.mp3?v=a3f02cb8dae6",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c1.mp3?v=344d85404286",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 859.36,
+      "duration_seconds": 855.691,
       "paragraph_count": 65,
       "formats": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c1.mp3?v=a3f02cb8dae6"
+          "url": "audio/fr/the-book-which-tells-the-truth/c1.mp3?v=344d85404286"
         }
       ],
       "title": "La Rencontre",
@@ -25,9 +25,9 @@
     },
     {
       "n": 2,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c2.mp3?v=a6ec68257af2",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c2.mp3?v=8fc1a83e929b",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c2.timing.json",
-      "duration_seconds": 1453.39,
+      "duration_seconds": 1454.923,
       "paragraph_count": 91,
       "formats": [
         {
@@ -36,7 +36,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c2.mp3?v=a6ec68257af2"
+          "url": "audio/fr/the-book-which-tells-the-truth/c2.mp3?v=8fc1a83e929b"
         }
       ],
       "title": "La Vérité",
@@ -44,9 +44,9 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c3.mp3?v=063366833564",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c3.mp3?v=b32e7418099d",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3319.512,
+      "duration_seconds": 3320.905,
       "paragraph_count": 298,
       "formats": [
         {
@@ -55,7 +55,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c3.mp3?v=063366833564"
+          "url": "audio/fr/the-book-which-tells-the-truth/c3.mp3?v=b32e7418099d"
         }
       ],
       "title": "La Surveillance Des Élus",
@@ -63,7 +63,7 @@
     },
     {
       "n": 4,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c4.mp3?v=3c03fcbb3016",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c4.mp3?v=ee283ab2d8c7",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c4.timing.json",
       "duration_seconds": 1246.915,
       "paragraph_count": 118,
@@ -74,7 +74,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c4.mp3?v=3c03fcbb3016"
+          "url": "audio/fr/the-book-which-tells-the-truth/c4.mp3?v=ee283ab2d8c7"
         }
       ],
       "title": "L’Utilité Du Christ",
@@ -82,9 +82,9 @@
     },
     {
       "n": 5,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c5.mp3?v=05920b33b21e",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c5.mp3?v=aaffc2d57d13",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c5.timing.json",
-      "duration_seconds": 1556.151,
+      "duration_seconds": 1556.755,
       "paragraph_count": 67,
       "formats": [
         {
@@ -93,7 +93,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c5.mp3?v=05920b33b21e"
+          "url": "audio/fr/the-book-which-tells-the-truth/c5.mp3?v=aaffc2d57d13"
         }
       ],
       "title": "La Fin Du Monde",
@@ -101,9 +101,9 @@
     },
     {
       "n": 6,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c6.mp3?v=e59d4daa2d5a",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c6.mp3?v=ea52586cdada",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c6.timing.json",
-      "duration_seconds": 1014.707,
+      "duration_seconds": 1014.8,
       "paragraph_count": 29,
       "formats": [
         {
@@ -112,7 +112,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c6.mp3?v=e59d4daa2d5a"
+          "url": "audio/fr/the-book-which-tells-the-truth/c6.mp3?v=ea52586cdada"
         }
       ],
       "title": "Les Nouveaux Commandements",
@@ -120,9 +120,9 @@
     },
     {
       "n": 7,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c7.mp3?v=f3c0368225d8",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c7.mp3?v=bef0698b1b52",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c7.timing.json",
-      "duration_seconds": 1651.707,
+      "duration_seconds": 1641.258,
       "paragraph_count": 83,
       "formats": [
         {
@@ -131,7 +131,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c7.mp3?v=f3c0368225d8"
+          "url": "audio/fr/the-book-which-tells-the-truth/c7.mp3?v=bef0698b1b52"
         }
       ],
       "title": "Les Elohim",

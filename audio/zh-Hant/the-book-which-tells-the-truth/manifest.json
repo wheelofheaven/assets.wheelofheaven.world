@@ -6,9 +6,9 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c1.mp3?v=201ff75d1ad1",
+      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c1.mp3?v=3a26c9769a11",
       "timing_url": "audio/zh-Hant/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 869.112,
+      "duration_seconds": 875.057,
       "paragraph_count": 65,
       "formats": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c1.mp3?v=201ff75d1ad1"
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c1.mp3?v=3a26c9769a11"
         }
       ],
       "title": "相遇",
@@ -25,9 +25,9 @@
     },
     {
       "n": 2,
-      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c2.mp3?v=6ed506075f49",
+      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c2.mp3?v=9e80b52da110",
       "timing_url": "audio/zh-Hant/the-book-which-tells-the-truth/c2.timing.json",
-      "duration_seconds": 1473.313,
+      "duration_seconds": 1457.988,
       "paragraph_count": 91,
       "formats": [
         {
@@ -36,7 +36,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c2.mp3?v=6ed506075f49"
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c2.mp3?v=9e80b52da110"
         }
       ],
       "title": "真實",
@@ -44,14 +44,18 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.opus?v=a7fad4366615",
+      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.mp3?v=3b05672405b7",
       "timing_url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3272.743,
+      "duration_seconds": 3261.086,
       "paragraph_count": 301,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.opus?v=a7fad4366615"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.mp3?v=3b05672405b7"
         }
       ],
       "title": "對選民的監視",
@@ -59,7 +63,7 @@
     },
     {
       "n": 4,
-      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.mp3?v=b32c0bf84f1d",
+      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.mp3?v=2d16c77f33f1",
       "timing_url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.timing.json",
       "duration_seconds": 1228.525,
       "paragraph_count": 118,
@@ -70,7 +74,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.mp3?v=b32c0bf84f1d"
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.mp3?v=2d16c77f33f1"
         }
       ],
       "title": "基督的用處",
@@ -78,9 +82,9 @@
     },
     {
       "n": 5,
-      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c5.mp3?v=869d66902630",
+      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c5.mp3?v=6618ff113710",
       "timing_url": "audio/zh-Hant/the-book-which-tells-the-truth/c5.timing.json",
-      "duration_seconds": 1508.364,
+      "duration_seconds": 1522.436,
       "paragraph_count": 67,
       "formats": [
         {
@@ -89,7 +93,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c5.mp3?v=869d66902630"
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c5.mp3?v=6618ff113710"
         }
       ],
       "title": "世界末日",
@@ -97,9 +101,9 @@
     },
     {
       "n": 6,
-      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c6.mp3?v=676bd6cd5493",
+      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c6.mp3?v=37f3cc0795a7",
       "timing_url": "audio/zh-Hant/the-book-which-tells-the-truth/c6.timing.json",
-      "duration_seconds": 967.803,
+      "duration_seconds": 974.955,
       "paragraph_count": 29,
       "formats": [
         {
@@ -108,7 +112,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c6.mp3?v=676bd6cd5493"
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c6.mp3?v=37f3cc0795a7"
         }
       ],
       "title": "新的誡命",
@@ -116,9 +120,9 @@
     },
     {
       "n": 7,
-      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c7.mp3?v=c8ca90f8c7e9",
+      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c7.mp3?v=a06d158240a2",
       "timing_url": "audio/zh-Hant/the-book-which-tells-the-truth/c7.timing.json",
-      "duration_seconds": 1611.026,
+      "duration_seconds": 1604.432,
       "paragraph_count": 83,
       "formats": [
         {
@@ -127,7 +131,7 @@
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c7.mp3?v=c8ca90f8c7e9"
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c7.mp3?v=a06d158240a2"
         }
       ],
       "title": "埃洛希姆",

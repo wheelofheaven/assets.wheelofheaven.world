@@ -6,28 +6,36 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.opus?v=10d752750b1b",
+      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.mp3?v=90d2e708cb66",
       "timing_url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.timing.json",
-      "duration_seconds": 3003.293,
+      "duration_seconds": 3003.246,
       "paragraph_count": 78,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.opus?v=10d752750b1b"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/extraterrestrials-took-me-to-their-planet/c1.mp3?v=90d2e708cb66"
         }
       ],
       "title": "My Life Until the First Encounter"
     },
     {
       "n": 2,
-      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.opus?v=647e4890343a",
+      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.mp3?v=9fbe2c302133",
       "timing_url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.timing.json",
-      "duration_seconds": 4775.573,
+      "duration_seconds": 4806.456,
       "paragraph_count": 132,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.opus?v=647e4890343a"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/extraterrestrials-took-me-to-their-planet/c2.mp3?v=9fbe2c302133"
         }
       ],
       "title": "The Second Encounter",
@@ -35,14 +43,18 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.opus?v=b13c01ea19df",
+      "audio_url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.mp3?v=6664090c277a",
       "timing_url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.timing.json",
-      "duration_seconds": 5123.291,
+      "duration_seconds": 5155.845,
       "paragraph_count": 264,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
           "url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.opus?v=b13c01ea19df"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/en/extraterrestrials-took-me-to-their-planet/c3.mp3?v=6664090c277a"
         }
       ],
       "title": "The Keys"
