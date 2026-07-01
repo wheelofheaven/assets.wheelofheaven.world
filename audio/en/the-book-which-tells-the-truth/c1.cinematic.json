@@ -3,12 +3,18 @@
   "lang": "en",
   "chapter": 1,
   "duration_seconds": 783.384,
-  "scene_count": 7,
+  "scene_count": 9,
   "caption_count": 156,
   "scenes": [
     {
-      "scene": "default",
+      "scene": "intro-hero",
       "start": 0.0,
+      "end": 59.424,
+      "image": "intro-hero"
+    },
+    {
+      "scene": "default",
+      "start": 59.424,
       "end": 185.869,
       "image": null
     },
@@ -39,8 +45,14 @@
     {
       "scene": "vessel-interior",
       "start": 488.432,
-      "end": 740.131,
+      "end": 558.991,
       "image": "vessel-interior"
+    },
+    {
+      "scene": "vessel-conversation",
+      "start": 558.991,
+      "end": 740.131,
+      "image": "vessel-conversation"
     },
     {
       "scene": "craft-departs",

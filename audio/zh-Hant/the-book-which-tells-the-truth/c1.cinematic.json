@@ -3,12 +3,18 @@
   "lang": "zh-Hant",
   "chapter": 1,
   "duration_seconds": 875.057,
-  "scene_count": 7,
+  "scene_count": 9,
   "caption_count": 65,
   "scenes": [
     {
-      "scene": "default",
+      "scene": "intro-hero",
       "start": 0.0,
+      "end": 62.49,
+      "image": "intro-hero"
+    },
+    {
+      "scene": "default",
+      "start": 62.49,
       "end": 203.145,
       "image": null
     },
@@ -39,8 +45,14 @@
     {
       "scene": "vessel-interior",
       "start": 543.323,
-      "end": 830.457,
+      "end": 630.973,
       "image": "vessel-interior"
+    },
+    {
+      "scene": "vessel-conversation",
+      "start": 630.973,
+      "end": 830.457,
+      "image": "vessel-conversation"
     },
     {
       "scene": "craft-departs",
