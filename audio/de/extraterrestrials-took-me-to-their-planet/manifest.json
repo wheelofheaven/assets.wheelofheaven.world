@@ -1,0 +1,65 @@
+{
+  "book": "extraterrestrials-took-me-to-their-planet",
+  "lang": "de",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/de/extraterrestrials-took-me-to-their-planet/c1.mp3?v=1d343a3cfba8",
+      "timing_url": "audio/de/extraterrestrials-took-me-to-their-planet/c1.timing.json",
+      "duration_seconds": 3519.844,
+      "paragraph_count": 78,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/extraterrestrials-took-me-to-their-planet/c1.opus?v=6ef83a3a99e5"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/de/extraterrestrials-took-me-to-their-planet/c1.mp3?v=1d343a3cfba8"
+        }
+      ],
+      "title": "Mein Leben bis zur ersten Begegnung",
+      "ambient_url": "audio/de/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=01c1fd1057d3"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.mp3?v=1e45936bafbd",
+      "timing_url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.timing.json",
+      "duration_seconds": 5361.552,
+      "paragraph_count": 132,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.opus?v=f259cb4469b7"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.mp3?v=1e45936bafbd"
+        }
+      ],
+      "title": "Die zweite Begegnung",
+      "ambient_url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=296973ffea48"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/de/extraterrestrials-took-me-to-their-planet/c3.mp3?v=20f216de0a70",
+      "timing_url": "audio/de/extraterrestrials-took-me-to-their-planet/c3.timing.json",
+      "duration_seconds": 5727.613,
+      "paragraph_count": 264,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/de/extraterrestrials-took-me-to-their-planet/c3.opus?v=5dc80cb4c6c9"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/de/extraterrestrials-took-me-to-their-planet/c3.mp3?v=20f216de0a70"
+        }
+      ],
+      "title": "Die Schlüssel",
+      "ambient_url": "audio/de/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=01745e04614f"
+    }
+  ]
+}

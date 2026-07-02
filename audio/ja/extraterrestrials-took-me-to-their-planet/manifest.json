@@ -1,0 +1,65 @@
+{
+  "book": "extraterrestrials-took-me-to-their-planet",
+  "lang": "ja",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c1.mp3?v=73eac70495be",
+      "timing_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c1.timing.json",
+      "duration_seconds": 3296.375,
+      "paragraph_count": 78,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ja/extraterrestrials-took-me-to-their-planet/c1.opus?v=4e182a1bece7"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ja/extraterrestrials-took-me-to-their-planet/c1.mp3?v=73eac70495be"
+        }
+      ],
+      "title": "最初の出会いまでの私の人生",
+      "ambient_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=9bfe6d2d172a"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c2.mp3?v=be7a7a71ae8c",
+      "timing_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c2.timing.json",
+      "duration_seconds": 5645.393,
+      "paragraph_count": 132,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ja/extraterrestrials-took-me-to-their-planet/c2.opus?v=9af9498cd493"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ja/extraterrestrials-took-me-to-their-planet/c2.mp3?v=be7a7a71ae8c"
+        }
+      ],
+      "title": "二度目の出会い",
+      "ambient_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=f159a3c73dbb"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.mp3?v=cb89b92c55ec",
+      "timing_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.timing.json",
+      "duration_seconds": 6290.604,
+      "paragraph_count": 264,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.opus?v=e93c281212e6"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.mp3?v=cb89b92c55ec"
+        }
+      ],
+      "title": "鍵",
+      "ambient_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=a6ebce7df142"
+    }
+  ]
+}
