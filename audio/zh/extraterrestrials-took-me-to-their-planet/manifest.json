@@ -1,0 +1,65 @@
+{
+  "book": "extraterrestrials-took-me-to-their-planet",
+  "lang": "zh",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/zh/extraterrestrials-took-me-to-their-planet/c1.mp3?v=1ebd73f09972",
+      "timing_url": "audio/zh/extraterrestrials-took-me-to-their-planet/c1.timing.json",
+      "duration_seconds": 2937.766,
+      "paragraph_count": 78,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/zh/extraterrestrials-took-me-to-their-planet/c1.opus?v=f25dce791984"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/zh/extraterrestrials-took-me-to-their-planet/c1.mp3?v=1ebd73f09972"
+        }
+      ],
+      "title": "我的生平直至初次相遇",
+      "ambient_url": "audio/zh/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=2e91e16f50a0"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/zh/extraterrestrials-took-me-to-their-planet/c2.mp3?v=8e224332c78d",
+      "timing_url": "audio/zh/extraterrestrials-took-me-to-their-planet/c2.timing.json",
+      "duration_seconds": 4822.524,
+      "paragraph_count": 132,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/zh/extraterrestrials-took-me-to-their-planet/c2.opus?v=4bc0140b6885"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/zh/extraterrestrials-took-me-to-their-planet/c2.mp3?v=8e224332c78d"
+        }
+      ],
+      "title": "第二次相遇",
+      "ambient_url": "audio/zh/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=f4e7be6dc43f"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/zh/extraterrestrials-took-me-to-their-planet/c3.mp3?v=a9c05dbaee5a",
+      "timing_url": "audio/zh/extraterrestrials-took-me-to-their-planet/c3.timing.json",
+      "duration_seconds": 5194.437,
+      "paragraph_count": 264,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/zh/extraterrestrials-took-me-to-their-planet/c3.opus?v=a54008014ff1"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/zh/extraterrestrials-took-me-to-their-planet/c3.mp3?v=a9c05dbaee5a"
+        }
+      ],
+      "title": "钥匙",
+      "ambient_url": "audio/zh/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=9c8a54063f5f"
+    }
+  ]
+}
