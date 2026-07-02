@@ -1,0 +1,65 @@
+{
+  "book": "extraterrestrials-took-me-to-their-planet",
+  "lang": "ru",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c1.mp3?v=1a39eb5b1eb1",
+      "timing_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c1.timing.json",
+      "duration_seconds": 3117.163,
+      "paragraph_count": 78,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ru/extraterrestrials-took-me-to-their-planet/c1.opus?v=85c57ddcedd1"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ru/extraterrestrials-took-me-to-their-planet/c1.mp3?v=1a39eb5b1eb1"
+        }
+      ],
+      "title": "Моя жизнь до первой встречи",
+      "ambient_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=351dc77470cd"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.mp3?v=3b1e8e469ac3",
+      "timing_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.timing.json",
+      "duration_seconds": 5043.996,
+      "paragraph_count": 132,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.opus?v=56642610d5f6"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.mp3?v=3b1e8e469ac3"
+        }
+      ],
+      "title": "Вторая встреча",
+      "ambient_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=3d11f8c87344"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c3.mp3?v=c32f2e2ac4dd",
+      "timing_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c3.timing.json",
+      "duration_seconds": 5569.81,
+      "paragraph_count": 264,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/ru/extraterrestrials-took-me-to-their-planet/c3.opus?v=8b761d4f96f6"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/ru/extraterrestrials-took-me-to-their-planet/c3.mp3?v=c32f2e2ac4dd"
+        }
+      ],
+      "title": "Ключи",
+      "ambient_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=154f9c1cb18b"
+    }
+  ]
+}
