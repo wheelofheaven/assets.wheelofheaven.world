@@ -1,0 +1,65 @@
+{
+  "book": "extraterrestrials-took-me-to-their-planet",
+  "lang": "he",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/he/extraterrestrials-took-me-to-their-planet/c1.mp3?v=64f1db3f87bb",
+      "timing_url": "audio/he/extraterrestrials-took-me-to-their-planet/c1.timing.json",
+      "duration_seconds": 2316.44,
+      "paragraph_count": 78,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/he/extraterrestrials-took-me-to-their-planet/c1.opus?v=51a83c09bc28"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/he/extraterrestrials-took-me-to-their-planet/c1.mp3?v=64f1db3f87bb"
+        }
+      ],
+      "title": "חיי עד המפגש הראשון",
+      "ambient_url": "audio/he/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=5f4178f143a5"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.mp3?v=87f33af94a6f",
+      "timing_url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.timing.json",
+      "duration_seconds": 4042.52,
+      "paragraph_count": 132,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.opus?v=45fb71a6d5fa"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.mp3?v=87f33af94a6f"
+        }
+      ],
+      "title": "המפגש השני",
+      "ambient_url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=828139182780"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/he/extraterrestrials-took-me-to-their-planet/c3.mp3?v=e1d054933469",
+      "timing_url": "audio/he/extraterrestrials-took-me-to-their-planet/c3.timing.json",
+      "duration_seconds": 4667.76,
+      "paragraph_count": 264,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/he/extraterrestrials-took-me-to-their-planet/c3.opus?v=faf0d97aee89"
+        },
+        {
+          "type": "audio/mpeg",
+          "url": "audio/he/extraterrestrials-took-me-to-their-planet/c3.mp3?v=e1d054933469"
+        }
+      ],
+      "title": "המפתחות",
+      "ambient_url": "audio/he/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=f0a2a5f3645d"
+    }
+  ]
+}
