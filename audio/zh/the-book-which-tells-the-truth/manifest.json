@@ -44,41 +44,37 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/zh/the-book-which-tells-the-truth/c3.mp3?v=831a6b4bb1c7",
+      "audio_url": "audio/zh/the-book-which-tells-the-truth/c3.opus?v=e587e7dfd43a",
       "timing_url": "audio/zh/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3271.628,
+      "duration_seconds": 3257.262,
       "paragraph_count": 301,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh/the-book-which-tells-the-truth/c3.opus?v=a7fad4366615"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/zh/the-book-which-tells-the-truth/c3.mp3?v=831a6b4bb1c7"
+          "url": "audio/zh/the-book-which-tells-the-truth/c3.opus?v=e587e7dfd43a"
         }
       ],
       "title": "对选民的监视",
-      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c3.ambient.opus?v=491b15c59f4c"
+      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c3.ambient.opus?v=ef5b182f96ab"
     },
     {
       "n": 4,
-      "audio_url": "audio/zh/the-book-which-tells-the-truth/c4.mp3?v=8af0a85ba5ff",
+      "audio_url": "audio/zh/the-book-which-tells-the-truth/c4.mp3?v=fe12b108cfaa",
       "timing_url": "audio/zh/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1228.246,
+      "duration_seconds": 1223.372,
       "paragraph_count": 118,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh/the-book-which-tells-the-truth/c4.opus?v=0d6768dce4eb"
+          "url": "audio/zh/the-book-which-tells-the-truth/c4.opus?v=c26e27b4cb64"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh/the-book-which-tells-the-truth/c4.mp3?v=8af0a85ba5ff"
+          "url": "audio/zh/the-book-which-tells-the-truth/c4.mp3?v=fe12b108cfaa"
         }
       ],
       "title": "基督的用处",
-      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c4.ambient.opus?v=cd39f669c46d"
+      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c4.ambient.opus?v=6a3e047890a7"
     },
     {
       "n": 5,

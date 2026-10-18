@@ -44,41 +44,37 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.mp3?v=3b05672405b7",
+      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.opus?v=2bad84644f4d",
       "timing_url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3261.086,
+      "duration_seconds": 3246.048,
       "paragraph_count": 301,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.opus?v=a7fad4366615"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.mp3?v=3b05672405b7"
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.opus?v=2bad84644f4d"
         }
       ],
       "title": "對選民的監視",
-      "ambient_url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.ambient.opus?v=491b15c59f4c"
+      "ambient_url": "audio/zh-Hant/the-book-which-tells-the-truth/c3.ambient.opus?v=e09f8bcbcbc8"
     },
     {
       "n": 4,
-      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.mp3?v=2d16c77f33f1",
+      "audio_url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.mp3?v=df44c84b988d",
       "timing_url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1228.525,
+      "duration_seconds": 1223.271,
       "paragraph_count": 118,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.opus?v=0d6768dce4eb"
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.opus?v=17abe45ea122"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.mp3?v=2d16c77f33f1"
+          "url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.mp3?v=df44c84b988d"
         }
       ],
       "title": "基督的用處",
-      "ambient_url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.ambient.opus?v=cd39f669c46d"
+      "ambient_url": "audio/zh-Hant/the-book-which-tells-the-truth/c4.ambient.opus?v=722f45d94007"
     },
     {
       "n": 5,

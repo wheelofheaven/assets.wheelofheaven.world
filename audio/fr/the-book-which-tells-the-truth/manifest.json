@@ -44,41 +44,37 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c3.mp3?v=b32e7418099d",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c3.opus?v=b04e46a41843",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3320.905,
+      "duration_seconds": 3306.721,
       "paragraph_count": 298,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/fr/the-book-which-tells-the-truth/c3.opus?v=87fa6511409d"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c3.mp3?v=b32e7418099d"
+          "url": "audio/fr/the-book-which-tells-the-truth/c3.opus?v=b04e46a41843"
         }
       ],
       "title": "La Surveillance Des Élus",
-      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c3.ambient.opus?v=c1c2ef0342c9"
+      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c3.ambient.opus?v=4b3ecd77a6da"
     },
     {
       "n": 4,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c4.mp3?v=ee283ab2d8c7",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c4.mp3?v=323fa8517f58",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1246.915,
+      "duration_seconds": 1241.517,
       "paragraph_count": 118,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/fr/the-book-which-tells-the-truth/c4.opus?v=781638503eb1"
+          "url": "audio/fr/the-book-which-tells-the-truth/c4.opus?v=f12eed8d5758"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c4.mp3?v=ee283ab2d8c7"
+          "url": "audio/fr/the-book-which-tells-the-truth/c4.mp3?v=323fa8517f58"
         }
       ],
       "title": "L’Utilité Du Christ",
-      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c4.ambient.opus?v=953c48aaaf03"
+      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c4.ambient.opus?v=ee523fb24906"
     },
     {
       "n": 5,

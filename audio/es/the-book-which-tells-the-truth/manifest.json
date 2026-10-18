@@ -44,41 +44,37 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/es/the-book-which-tells-the-truth/c3.mp3?v=4f88eed7dd31",
+      "audio_url": "audio/es/the-book-which-tells-the-truth/c3.opus?v=b6e492796343",
       "timing_url": "audio/es/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3566.433,
+      "duration_seconds": 3551.174,
       "paragraph_count": 298,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/es/the-book-which-tells-the-truth/c3.opus?v=f76bbade53f8"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/es/the-book-which-tells-the-truth/c3.mp3?v=4f88eed7dd31"
+          "url": "audio/es/the-book-which-tells-the-truth/c3.opus?v=b6e492796343"
         }
       ],
       "title": "La Vigilancia de los Elegidos",
-      "ambient_url": "audio/es/the-book-which-tells-the-truth/c3.ambient.opus?v=150922af99dd"
+      "ambient_url": "audio/es/the-book-which-tells-the-truth/c3.ambient.opus?v=f636cce5f773"
     },
     {
       "n": 4,
-      "audio_url": "audio/es/the-book-which-tells-the-truth/c4.mp3?v=4b1b4898b02b",
+      "audio_url": "audio/es/the-book-which-tells-the-truth/c4.mp3?v=0206603187bf",
       "timing_url": "audio/es/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1361.389,
+      "duration_seconds": 1355.83,
       "paragraph_count": 118,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/es/the-book-which-tells-the-truth/c4.opus?v=7a364a80f204"
+          "url": "audio/es/the-book-which-tells-the-truth/c4.opus?v=c162d397c308"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/es/the-book-which-tells-the-truth/c4.mp3?v=4b1b4898b02b"
+          "url": "audio/es/the-book-which-tells-the-truth/c4.mp3?v=0206603187bf"
         }
       ],
       "title": "La Utilidad del Cristo",
-      "ambient_url": "audio/es/the-book-which-tells-the-truth/c4.ambient.opus?v=72ae5ee59412"
+      "ambient_url": "audio/es/the-book-which-tells-the-truth/c4.ambient.opus?v=46bd0cc17296"
     },
     {
       "n": 5,

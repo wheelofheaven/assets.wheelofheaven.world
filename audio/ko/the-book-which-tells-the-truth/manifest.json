@@ -44,41 +44,37 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/ko/the-book-which-tells-the-truth/c3.mp3?v=4a3eca8384cc",
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c3.opus?v=b776c0130b3d",
       "timing_url": "audio/ko/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3519.575,
+      "duration_seconds": 3505.773,
       "paragraph_count": 298,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ko/the-book-which-tells-the-truth/c3.opus?v=f712aa1e51ae"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/ko/the-book-which-tells-the-truth/c3.mp3?v=4a3eca8384cc"
+          "url": "audio/ko/the-book-which-tells-the-truth/c3.opus?v=b776c0130b3d"
         }
       ],
       "title": "택함받은 자들에 대한 감시",
-      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c3.ambient.opus?v=caa13e273e89"
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c3.ambient.opus?v=cab801d5a072"
     },
     {
       "n": 4,
-      "audio_url": "audio/ko/the-book-which-tells-the-truth/c4.mp3?v=2f6afa20fe69",
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c4.mp3?v=ccb8f0ca8530",
       "timing_url": "audio/ko/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1320.708,
+      "duration_seconds": 1315.848,
       "paragraph_count": 118,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ko/the-book-which-tells-the-truth/c4.opus?v=1f2e20d1c641"
+          "url": "audio/ko/the-book-which-tells-the-truth/c4.opus?v=92dc3bbc9fff"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ko/the-book-which-tells-the-truth/c4.mp3?v=2f6afa20fe69"
+          "url": "audio/ko/the-book-which-tells-the-truth/c4.mp3?v=ccb8f0ca8530"
         }
       ],
       "title": "그리스도의 유용성",
-      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c4.ambient.opus?v=82deb8fa7c54"
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c4.ambient.opus?v=1f3193cb5a7b"
     },
     {
       "n": 5,

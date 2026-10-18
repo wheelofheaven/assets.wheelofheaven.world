@@ -25,22 +25,18 @@
     },
     {
       "n": 2,
-      "audio_url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.mp3?v=87f33af94a6f",
+      "audio_url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.opus?v=59fb43c43b4e",
       "timing_url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.timing.json",
-      "duration_seconds": 4042.52,
+      "duration_seconds": 4077.28,
       "paragraph_count": 132,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.opus?v=45fb71a6d5fa"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.mp3?v=87f33af94a6f"
+          "url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.opus?v=59fb43c43b4e"
         }
       ],
       "title": "המפגש השני",
-      "ambient_url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=828139182780"
+      "ambient_url": "audio/he/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=81165d96b5a0"
     },
     {
       "n": 3,

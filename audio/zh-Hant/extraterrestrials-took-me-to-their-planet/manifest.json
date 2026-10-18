@@ -25,22 +25,18 @@
     },
     {
       "n": 2,
-      "audio_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c2.mp3?v=79b5f5926180",
+      "audio_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c2.opus?v=35e08a52cfb9",
       "timing_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c2.timing.json",
-      "duration_seconds": 4824.428,
+      "duration_seconds": 4811.835,
       "paragraph_count": 132,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c2.opus?v=84c41197ff4c"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c2.mp3?v=79b5f5926180"
+          "url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c2.opus?v=35e08a52cfb9"
         }
       ],
       "title": "第二次相遇",
-      "ambient_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=9f0fa8ce5641"
+      "ambient_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=bfe6e268e2bc"
     },
     {
       "n": 3,

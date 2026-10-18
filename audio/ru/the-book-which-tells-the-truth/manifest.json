@@ -44,41 +44,37 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/ru/the-book-which-tells-the-truth/c3.mp3?v=51b4a0744088",
+      "audio_url": "audio/ru/the-book-which-tells-the-truth/c3.opus?v=e0da2ee2d06a",
       "timing_url": "audio/ru/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3432.221,
+      "duration_seconds": 3417.872,
       "paragraph_count": 298,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ru/the-book-which-tells-the-truth/c3.opus?v=818950e1c8ba"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/ru/the-book-which-tells-the-truth/c3.mp3?v=51b4a0744088"
+          "url": "audio/ru/the-book-which-tells-the-truth/c3.opus?v=e0da2ee2d06a"
         }
       ],
       "title": "Надзор за избранными",
-      "ambient_url": "audio/ru/the-book-which-tells-the-truth/c3.ambient.opus?v=093ea1f4db3f"
+      "ambient_url": "audio/ru/the-book-which-tells-the-truth/c3.ambient.opus?v=a61f4477a06d"
     },
     {
       "n": 4,
-      "audio_url": "audio/ru/the-book-which-tells-the-truth/c4.mp3?v=63cf4f920559",
+      "audio_url": "audio/ru/the-book-which-tells-the-truth/c4.mp3?v=ead2944bb08d",
       "timing_url": "audio/ru/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1293.123,
+      "duration_seconds": 1287.913,
       "paragraph_count": 118,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ru/the-book-which-tells-the-truth/c4.opus?v=d1d06d749391"
+          "url": "audio/ru/the-book-which-tells-the-truth/c4.opus?v=2189746c0c17"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ru/the-book-which-tells-the-truth/c4.mp3?v=63cf4f920559"
+          "url": "audio/ru/the-book-which-tells-the-truth/c4.mp3?v=ead2944bb08d"
         }
       ],
       "title": "Польза Христа",
-      "ambient_url": "audio/ru/the-book-which-tells-the-truth/c4.ambient.opus?v=66dbdde95a4b"
+      "ambient_url": "audio/ru/the-book-which-tells-the-truth/c4.ambient.opus?v=5ae9cc478793"
     },
     {
       "n": 5,

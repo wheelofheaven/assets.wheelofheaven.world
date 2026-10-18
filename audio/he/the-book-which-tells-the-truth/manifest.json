@@ -44,41 +44,37 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/he/the-book-which-tells-the-truth/c3.mp3?v=c0290b5a15c1",
+      "audio_url": "audio/he/the-book-which-tells-the-truth/c3.opus?v=8fea8a193e75",
       "timing_url": "audio/he/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3258.02,
+      "duration_seconds": 3247.74,
       "paragraph_count": 298,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/he/the-book-which-tells-the-truth/c3.opus?v=5c3a20b11360"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/he/the-book-which-tells-the-truth/c3.mp3?v=c0290b5a15c1"
+          "url": "audio/he/the-book-which-tells-the-truth/c3.opus?v=8fea8a193e75"
         }
       ],
       "title": "ההשגחה על הנבחרים",
-      "ambient_url": "audio/he/the-book-which-tells-the-truth/c3.ambient.opus?v=fff00d0fb029"
+      "ambient_url": "audio/he/the-book-which-tells-the-truth/c3.ambient.opus?v=8f2119934566"
     },
     {
       "n": 4,
-      "audio_url": "audio/he/the-book-which-tells-the-truth/c4.mp3?v=658820006770",
+      "audio_url": "audio/he/the-book-which-tells-the-truth/c4.mp3?v=24752ea7cbab",
       "timing_url": "audio/he/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1277.44,
+      "duration_seconds": 1273.52,
       "paragraph_count": 118,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/he/the-book-which-tells-the-truth/c4.opus?v=8b8aa49fc8f6"
+          "url": "audio/he/the-book-which-tells-the-truth/c4.opus?v=7e0162e30f86"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/he/the-book-which-tells-the-truth/c4.mp3?v=658820006770"
+          "url": "audio/he/the-book-which-tells-the-truth/c4.mp3?v=24752ea7cbab"
         }
       ],
       "title": "תועלתו של המשיח",
-      "ambient_url": "audio/he/the-book-which-tells-the-truth/c4.ambient.opus?v=e45131cf73e3"
+      "ambient_url": "audio/he/the-book-which-tells-the-truth/c4.ambient.opus?v=4421249c5d79"
     },
     {
       "n": 5,

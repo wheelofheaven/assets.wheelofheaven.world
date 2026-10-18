@@ -44,41 +44,37 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/ja/the-book-which-tells-the-truth/c3.mp3?v=e430cca11e2c",
+      "audio_url": "audio/ja/the-book-which-tells-the-truth/c3.opus?v=0aaee54312a8",
       "timing_url": "audio/ja/the-book-which-tells-the-truth/c3.timing.json",
-      "duration_seconds": 3997.623,
+      "duration_seconds": 3982.04,
       "paragraph_count": 301,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ja/the-book-which-tells-the-truth/c3.opus?v=f042e34af56e"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/ja/the-book-which-tells-the-truth/c3.mp3?v=e430cca11e2c"
+          "url": "audio/ja/the-book-which-tells-the-truth/c3.opus?v=0aaee54312a8"
         }
       ],
       "title": "選ばれた者たちの監視",
-      "ambient_url": "audio/ja/the-book-which-tells-the-truth/c3.ambient.opus?v=5a8e1bceacf1"
+      "ambient_url": "audio/ja/the-book-which-tells-the-truth/c3.ambient.opus?v=79dc8cc388e5"
     },
     {
       "n": 4,
-      "audio_url": "audio/ja/the-book-which-tells-the-truth/c4.mp3?v=134bd927f9ff",
+      "audio_url": "audio/ja/the-book-which-tells-the-truth/c4.mp3?v=9553a7b48cbf",
       "timing_url": "audio/ja/the-book-which-tells-the-truth/c4.timing.json",
-      "duration_seconds": 1509.254,
+      "duration_seconds": 1503.598,
       "paragraph_count": 118,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ja/the-book-which-tells-the-truth/c4.opus?v=a300213664b6"
+          "url": "audio/ja/the-book-which-tells-the-truth/c4.opus?v=8afe240bdfe9"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ja/the-book-which-tells-the-truth/c4.mp3?v=134bd927f9ff"
+          "url": "audio/ja/the-book-which-tells-the-truth/c4.mp3?v=9553a7b48cbf"
         }
       ],
       "title": "キリストの有用性",
-      "ambient_url": "audio/ja/the-book-which-tells-the-truth/c4.ambient.opus?v=4de2df845d33"
+      "ambient_url": "audio/ja/the-book-which-tells-the-truth/c4.ambient.opus?v=46798aff712e"
     },
     {
       "n": 5,

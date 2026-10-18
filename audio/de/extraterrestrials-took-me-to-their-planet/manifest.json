@@ -25,22 +25,18 @@
     },
     {
       "n": 2,
-      "audio_url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.mp3?v=1e45936bafbd",
+      "audio_url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.opus?v=323e59894e56",
       "timing_url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.timing.json",
-      "duration_seconds": 5361.552,
+      "duration_seconds": 5349.464,
       "paragraph_count": 132,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.opus?v=c7b4c314baf0"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.mp3?v=1e45936bafbd"
+          "url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.opus?v=323e59894e56"
         }
       ],
       "title": "Die zweite Begegnung",
-      "ambient_url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=296973ffea48"
+      "ambient_url": "audio/de/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=c28f9b551edc"
     },
     {
       "n": 3,

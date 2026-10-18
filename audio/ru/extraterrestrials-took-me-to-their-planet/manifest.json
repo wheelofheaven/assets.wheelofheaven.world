@@ -25,22 +25,18 @@
     },
     {
       "n": 2,
-      "audio_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.mp3?v=3b1e8e469ac3",
+      "audio_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.opus?v=ca66fe00fdac",
       "timing_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.timing.json",
-      "duration_seconds": 5043.996,
+      "duration_seconds": 5032.748,
       "paragraph_count": 132,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.opus?v=56642610d5f6"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.mp3?v=3b1e8e469ac3"
+          "url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.opus?v=ca66fe00fdac"
         }
       ],
       "title": "Вторая встреча",
-      "ambient_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=3d11f8c87344"
+      "ambient_url": "audio/ru/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=ec777a149d6e"
     },
     {
       "n": 3,

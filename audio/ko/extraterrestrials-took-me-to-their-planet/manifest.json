@@ -6,41 +6,33 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c1.mp3?v=729280d16278",
+      "audio_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c1.opus?v=547f18aa038a",
       "timing_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c1.timing.json",
-      "duration_seconds": 3509.209,
+      "duration_seconds": 3508.251,
       "paragraph_count": 78,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ko/extraterrestrials-took-me-to-their-planet/c1.opus?v=8bdb19b85a74"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/ko/extraterrestrials-took-me-to-their-planet/c1.mp3?v=729280d16278"
+          "url": "audio/ko/extraterrestrials-took-me-to-their-planet/c1.opus?v=547f18aa038a"
         }
       ],
       "title": "첫 만남까지의 나의 삶",
-      "ambient_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=854387e7b53f"
+      "ambient_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=2c68621ac871"
     },
     {
       "n": 2,
-      "audio_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c2.mp3?v=c7b2b1760fe4",
+      "audio_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c2.opus?v=557f73eab1a4",
       "timing_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c2.timing.json",
-      "duration_seconds": 5302.573,
+      "duration_seconds": 5301.909,
       "paragraph_count": 132,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ko/extraterrestrials-took-me-to-their-planet/c2.opus?v=dbf79a1fda43"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/ko/extraterrestrials-took-me-to-their-planet/c2.mp3?v=c7b2b1760fe4"
+          "url": "audio/ko/extraterrestrials-took-me-to-their-planet/c2.opus?v=557f73eab1a4"
         }
       ],
       "title": "두 번째 만남",
-      "ambient_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=fbb63274a8b7"
+      "ambient_url": "audio/ko/extraterrestrials-took-me-to-their-planet/c2.ambient.opus?v=1bfe33d42d12"
     },
     {
       "n": 3,
