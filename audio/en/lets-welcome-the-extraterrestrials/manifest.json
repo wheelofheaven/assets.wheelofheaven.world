@@ -1,0 +1,64 @@
+{
+  "book": "lets-welcome-the-extraterrestrials",
+  "lang": "en",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/en/lets-welcome-the-extraterrestrials/c1.opus?v=40bc674f42c8",
+      "timing_url": "audio/en/lets-welcome-the-extraterrestrials/c1.timing.json",
+      "duration_seconds": 6793.686,
+      "paragraph_count": 200,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/lets-welcome-the-extraterrestrials/c1.opus?v=40bc674f42c8"
+        }
+      ],
+      "title": "Frequently Asked Questions"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/en/lets-welcome-the-extraterrestrials/c2.opus?v=f52a0c672a26",
+      "timing_url": "audio/en/lets-welcome-the-extraterrestrials/c2.timing.json",
+      "duration_seconds": 4580.933,
+      "paragraph_count": 235,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/lets-welcome-the-extraterrestrials/c2.opus?v=f52a0c672a26"
+        }
+      ],
+      "title": "The New Revelations"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/en/lets-welcome-the-extraterrestrials/c3.opus?v=4fcbd57ae96e",
+      "timing_url": "audio/en/lets-welcome-the-extraterrestrials/c3.timing.json",
+      "duration_seconds": 2624.716,
+      "paragraph_count": 87,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/lets-welcome-the-extraterrestrials/c3.opus?v=4fcbd57ae96e"
+        }
+      ],
+      "title": "An Atheist Religion"
+    },
+    {
+      "n": 4,
+      "audio_url": "audio/en/lets-welcome-the-extraterrestrials/c4.opus?v=4122643985c5",
+      "timing_url": "audio/en/lets-welcome-the-extraterrestrials/c4.timing.json",
+      "duration_seconds": 4255.934,
+      "paragraph_count": 206,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/en/lets-welcome-the-extraterrestrials/c4.opus?v=4122643985c5"
+        }
+      ],
+      "title": "Commentaries and Testimonials of Raelians"
+    }
+  ]
+}
