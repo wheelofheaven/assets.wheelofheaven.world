@@ -1,0 +1,64 @@
+{
+  "book": "lets-welcome-the-extraterrestrials",
+  "lang": "fr",
+  "model": "eleven_multilingual_v2",
+  "timing_version": 2,
+  "chapters": [
+    {
+      "n": 1,
+      "audio_url": "audio/fr/lets-welcome-the-extraterrestrials/c1.opus?v=5323099553e0",
+      "timing_url": "audio/fr/lets-welcome-the-extraterrestrials/c1.timing.json",
+      "duration_seconds": 7626.782,
+      "paragraph_count": 200,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/fr/lets-welcome-the-extraterrestrials/c1.opus?v=5323099553e0"
+        }
+      ],
+      "title": "Questions Revenant le Plus Souvent"
+    },
+    {
+      "n": 2,
+      "audio_url": "audio/fr/lets-welcome-the-extraterrestrials/c2.opus?v=33223b576532",
+      "timing_url": "audio/fr/lets-welcome-the-extraterrestrials/c2.timing.json",
+      "duration_seconds": 4560.695,
+      "paragraph_count": 203,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/fr/lets-welcome-the-extraterrestrials/c2.opus?v=33223b576532"
+        }
+      ],
+      "title": "Nouvelles Révélations"
+    },
+    {
+      "n": 3,
+      "audio_url": "audio/fr/lets-welcome-the-extraterrestrials/c3.opus?v=13d20c79c605",
+      "timing_url": "audio/fr/lets-welcome-the-extraterrestrials/c3.timing.json",
+      "duration_seconds": 2705.788,
+      "paragraph_count": 85,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/fr/lets-welcome-the-extraterrestrials/c3.opus?v=13d20c79c605"
+        }
+      ],
+      "title": "Une Religion Athée"
+    },
+    {
+      "n": 4,
+      "audio_url": "audio/fr/lets-welcome-the-extraterrestrials/c4.opus?v=f379a512dc6d",
+      "timing_url": "audio/fr/lets-welcome-the-extraterrestrials/c4.timing.json",
+      "duration_seconds": 4818.135,
+      "paragraph_count": 219,
+      "formats": [
+        {
+          "type": "audio/ogg; codecs=opus",
+          "url": "audio/fr/lets-welcome-the-extraterrestrials/c4.opus?v=f379a512dc6d"
+        }
+      ],
+      "title": "Commentaires et Témoignages de Raëliens"
+    }
+  ]
+}
