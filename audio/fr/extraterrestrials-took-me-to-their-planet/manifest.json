@@ -6,22 +6,18 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c1.mp3?v=0cdfa713b37b",
+      "audio_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c1.opus?v=f06eecd65d3c",
       "timing_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c1.timing.json",
-      "duration_seconds": 3211.39,
+      "duration_seconds": 3207.084,
       "paragraph_count": 78,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/fr/extraterrestrials-took-me-to-their-planet/c1.opus?v=e13bb575c695"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/fr/extraterrestrials-took-me-to-their-planet/c1.mp3?v=0cdfa713b37b"
+          "url": "audio/fr/extraterrestrials-took-me-to-their-planet/c1.opus?v=f06eecd65d3c"
         }
       ],
       "title": "Ma Vie Jusqu’à La Première Rencontre",
-      "ambient_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=2082af5a8d18"
+      "ambient_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=a2ccc8d21893"
     },
     {
       "n": 2,
@@ -40,22 +36,18 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c3.mp3?v=559f53ffbc3a",
+      "audio_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c3.opus?v=88c2de0b2602",
       "timing_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c3.timing.json",
-      "duration_seconds": 5181.712,
+      "duration_seconds": 5168.516,
       "paragraph_count": 264,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/fr/extraterrestrials-took-me-to-their-planet/c3.opus?v=7fb6f45151cc"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/fr/extraterrestrials-took-me-to-their-planet/c3.mp3?v=559f53ffbc3a"
+          "url": "audio/fr/extraterrestrials-took-me-to-their-planet/c3.opus?v=88c2de0b2602"
         }
       ],
       "title": "Les Clés",
-      "ambient_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=8ba4a3926f67"
+      "ambient_url": "audio/fr/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=e826dfb91b1c"
     }
   ]
 }

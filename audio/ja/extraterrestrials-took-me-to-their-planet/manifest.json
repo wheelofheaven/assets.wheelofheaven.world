@@ -36,22 +36,18 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.mp3?v=cb89b92c55ec",
+      "audio_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.opus?v=5a7dd8268f54",
       "timing_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.timing.json",
-      "duration_seconds": 6290.604,
+      "duration_seconds": 6276.398,
       "paragraph_count": 264,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.opus?v=5a62600649e2"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.mp3?v=cb89b92c55ec"
+          "url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.opus?v=5a7dd8268f54"
         }
       ],
       "title": "鍵",
-      "ambient_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=a6ebce7df142"
+      "ambient_url": "audio/ja/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=5f609f9ebcc9"
     }
   ]
 }

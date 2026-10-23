@@ -6,41 +6,41 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/he/the-book-which-tells-the-truth/c1.mp3?v=85f6dd07ada5",
+      "audio_url": "audio/he/the-book-which-tells-the-truth/c1.mp3?v=c73d057c50a6",
       "timing_url": "audio/he/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 752.78,
+      "duration_seconds": 751.44,
       "paragraph_count": 65,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/he/the-book-which-tells-the-truth/c1.opus?v=e9cc19f383dd"
+          "url": "audio/he/the-book-which-tells-the-truth/c1.opus?v=23549b690ec9"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/he/the-book-which-tells-the-truth/c1.mp3?v=85f6dd07ada5"
+          "url": "audio/he/the-book-which-tells-the-truth/c1.mp3?v=c73d057c50a6"
         }
       ],
       "title": "המפגש",
-      "ambient_url": "audio/he/the-book-which-tells-the-truth/c1.ambient.opus?v=0b8cfd786cb5"
+      "ambient_url": "audio/he/the-book-which-tells-the-truth/c1.ambient.opus?v=996709ef3344"
     },
     {
       "n": 2,
-      "audio_url": "audio/he/the-book-which-tells-the-truth/c2.mp3?v=bcc13dd2b69d",
+      "audio_url": "audio/he/the-book-which-tells-the-truth/c2.mp3?v=f648063a8d7b",
       "timing_url": "audio/he/the-book-which-tells-the-truth/c2.timing.json",
-      "duration_seconds": 1424.48,
+      "duration_seconds": 1421.28,
       "paragraph_count": 91,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/he/the-book-which-tells-the-truth/c2.opus?v=c0fc441f0373"
+          "url": "audio/he/the-book-which-tells-the-truth/c2.opus?v=615c17e88df5"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/he/the-book-which-tells-the-truth/c2.mp3?v=bcc13dd2b69d"
+          "url": "audio/he/the-book-which-tells-the-truth/c2.mp3?v=f648063a8d7b"
         }
       ],
       "title": "האמת",
-      "ambient_url": "audio/he/the-book-which-tells-the-truth/c2.ambient.opus?v=a873fd78c2c0"
+      "ambient_url": "audio/he/the-book-which-tells-the-truth/c2.ambient.opus?v=2c1bdb84af65"
     },
     {
       "n": 3,
@@ -78,60 +78,60 @@
     },
     {
       "n": 5,
-      "audio_url": "audio/he/the-book-which-tells-the-truth/c5.mp3?v=76ede20d3b83",
+      "audio_url": "audio/he/the-book-which-tells-the-truth/c5.mp3?v=ab11f6f6feef",
       "timing_url": "audio/he/the-book-which-tells-the-truth/c5.timing.json",
-      "duration_seconds": 1585.28,
+      "duration_seconds": 1582.84,
       "paragraph_count": 67,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/he/the-book-which-tells-the-truth/c5.opus?v=16913546f3d3"
+          "url": "audio/he/the-book-which-tells-the-truth/c5.opus?v=35f0cd6643a4"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/he/the-book-which-tells-the-truth/c5.mp3?v=76ede20d3b83"
+          "url": "audio/he/the-book-which-tells-the-truth/c5.mp3?v=ab11f6f6feef"
         }
       ],
       "title": "קץ העולם",
-      "ambient_url": "audio/he/the-book-which-tells-the-truth/c5.ambient.opus?v=4f445e7aa89e"
+      "ambient_url": "audio/he/the-book-which-tells-the-truth/c5.ambient.opus?v=c8227e52adf2"
     },
     {
       "n": 6,
-      "audio_url": "audio/he/the-book-which-tells-the-truth/c6.mp3?v=b415619c90d2",
+      "audio_url": "audio/he/the-book-which-tells-the-truth/c6.mp3?v=14e64649344b",
       "timing_url": "audio/he/the-book-which-tells-the-truth/c6.timing.json",
-      "duration_seconds": 1056.78,
+      "duration_seconds": 1055.86,
       "paragraph_count": 29,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/he/the-book-which-tells-the-truth/c6.opus?v=a3bcf2bac8e5"
+          "url": "audio/he/the-book-which-tells-the-truth/c6.opus?v=fc9d280ffe1f"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/he/the-book-which-tells-the-truth/c6.mp3?v=b415619c90d2"
+          "url": "audio/he/the-book-which-tells-the-truth/c6.mp3?v=14e64649344b"
         }
       ],
       "title": "המצוות החדשות",
-      "ambient_url": "audio/he/the-book-which-tells-the-truth/c6.ambient.opus?v=c4c41305d53b"
+      "ambient_url": "audio/he/the-book-which-tells-the-truth/c6.ambient.opus?v=1b6839f7b088"
     },
     {
       "n": 7,
-      "audio_url": "audio/he/the-book-which-tells-the-truth/c7.mp3?v=99719799e592",
+      "audio_url": "audio/he/the-book-which-tells-the-truth/c7.mp3?v=f9a5e517fb31",
       "timing_url": "audio/he/the-book-which-tells-the-truth/c7.timing.json",
-      "duration_seconds": 1599.52,
+      "duration_seconds": 1597.46,
       "paragraph_count": 83,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/he/the-book-which-tells-the-truth/c7.opus?v=54e403b7cf8c"
+          "url": "audio/he/the-book-which-tells-the-truth/c7.opus?v=8800cb19dba9"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/he/the-book-which-tells-the-truth/c7.mp3?v=99719799e592"
+          "url": "audio/he/the-book-which-tells-the-truth/c7.mp3?v=f9a5e517fb31"
         }
       ],
       "title": "האלוהים",
-      "ambient_url": "audio/he/the-book-which-tells-the-truth/c7.ambient.opus?v=5437acb7caaa"
+      "ambient_url": "audio/he/the-book-which-tells-the-truth/c7.ambient.opus?v=8115d56e4876"
     }
   ]
 }

@@ -6,41 +6,41 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/ko/the-book-which-tells-the-truth/c1.mp3?v=730e84fc5f79",
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c1.mp3?v=4863203808f1",
       "timing_url": "audio/ko/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 972.627,
+      "duration_seconds": 970.828,
       "paragraph_count": 65,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ko/the-book-which-tells-the-truth/c1.opus?v=bdf0d94dde87"
+          "url": "audio/ko/the-book-which-tells-the-truth/c1.opus?v=5acf11daee75"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ko/the-book-which-tells-the-truth/c1.mp3?v=730e84fc5f79"
+          "url": "audio/ko/the-book-which-tells-the-truth/c1.mp3?v=4863203808f1"
         }
       ],
       "title": "만남",
-      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c1.ambient.opus?v=6040be4f4d58"
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c1.ambient.opus?v=61a1ed9685ca"
     },
     {
       "n": 2,
-      "audio_url": "audio/ko/the-book-which-tells-the-truth/c2.mp3?v=627b5ae1ff51",
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c2.mp3?v=a930cd7b3bb3",
       "timing_url": "audio/ko/the-book-which-tells-the-truth/c2.timing.json",
-      "duration_seconds": 1500.109,
+      "duration_seconds": 1495.724,
       "paragraph_count": 91,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ko/the-book-which-tells-the-truth/c2.opus?v=0f3be89495af"
+          "url": "audio/ko/the-book-which-tells-the-truth/c2.opus?v=cd729731d929"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ko/the-book-which-tells-the-truth/c2.mp3?v=627b5ae1ff51"
+          "url": "audio/ko/the-book-which-tells-the-truth/c2.mp3?v=a930cd7b3bb3"
         }
       ],
       "title": "진실",
-      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c2.ambient.opus?v=cea5bae8823a"
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c2.ambient.opus?v=0df285bf7042"
     },
     {
       "n": 3,
@@ -78,60 +78,52 @@
     },
     {
       "n": 5,
-      "audio_url": "audio/ko/the-book-which-tells-the-truth/c5.mp3?v=700c01cb5cd3",
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c5.opus?v=9484ae9604c6",
       "timing_url": "audio/ko/the-book-which-tells-the-truth/c5.timing.json",
-      "duration_seconds": 1664.031,
+      "duration_seconds": 1661.304,
       "paragraph_count": 67,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ko/the-book-which-tells-the-truth/c5.opus?v=3ef5be9e18d5"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/ko/the-book-which-tells-the-truth/c5.mp3?v=700c01cb5cd3"
+          "url": "audio/ko/the-book-which-tells-the-truth/c5.opus?v=9484ae9604c6"
         }
       ],
       "title": "세상의 종말",
-      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c5.ambient.opus?v=6863a640c61f"
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c5.ambient.opus?v=3899cbadfe56"
     },
     {
       "n": 6,
-      "audio_url": "audio/ko/the-book-which-tells-the-truth/c6.mp3?v=bb533d0e3ce2",
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c6.mp3?v=fed80e10daf6",
       "timing_url": "audio/ko/the-book-which-tells-the-truth/c6.timing.json",
-      "duration_seconds": 1060.497,
+      "duration_seconds": 1059.265,
       "paragraph_count": 29,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ko/the-book-which-tells-the-truth/c6.opus?v=31b2e1e388e9"
+          "url": "audio/ko/the-book-which-tells-the-truth/c6.opus?v=cdfb94d79f8a"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/ko/the-book-which-tells-the-truth/c6.mp3?v=bb533d0e3ce2"
+          "url": "audio/ko/the-book-which-tells-the-truth/c6.mp3?v=fed80e10daf6"
         }
       ],
       "title": "새 계명",
-      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c6.ambient.opus?v=5e2a2b0eaa8a"
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c6.ambient.opus?v=47f0a72bde79"
     },
     {
       "n": 7,
-      "audio_url": "audio/ko/the-book-which-tells-the-truth/c7.mp3?v=a38eaaedf95e",
+      "audio_url": "audio/ko/the-book-which-tells-the-truth/c7.opus?v=2496e41ea101",
       "timing_url": "audio/ko/the-book-which-tells-the-truth/c7.timing.json",
-      "duration_seconds": 1790.145,
+      "duration_seconds": 1786.634,
       "paragraph_count": 83,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/ko/the-book-which-tells-the-truth/c7.opus?v=116646da71f4"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/ko/the-book-which-tells-the-truth/c7.mp3?v=a38eaaedf95e"
+          "url": "audio/ko/the-book-which-tells-the-truth/c7.opus?v=2496e41ea101"
         }
       ],
       "title": "엘로힘",
-      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c7.ambient.opus?v=a2547c0d0e0d"
+      "ambient_url": "audio/ko/the-book-which-tells-the-truth/c7.ambient.opus?v=e0531ca261df"
     }
   ]
 }

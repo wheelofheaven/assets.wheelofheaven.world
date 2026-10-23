@@ -6,41 +6,41 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c1.mp3?v=344d85404286",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c1.mp3?v=4f9fcaac4ee9",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 855.691,
+      "duration_seconds": 853.869,
       "paragraph_count": 65,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/fr/the-book-which-tells-the-truth/c1.opus?v=397633fcbd78"
+          "url": "audio/fr/the-book-which-tells-the-truth/c1.opus?v=46b473afb4c8"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c1.mp3?v=344d85404286"
+          "url": "audio/fr/the-book-which-tells-the-truth/c1.mp3?v=4f9fcaac4ee9"
         }
       ],
       "title": "La Rencontre",
-      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c1.ambient.opus?v=195e8911751b"
+      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c1.ambient.opus?v=3704e251d523"
     },
     {
       "n": 2,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c2.mp3?v=8fc1a83e929b",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c2.mp3?v=fc8da3b2772d",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c2.timing.json",
-      "duration_seconds": 1454.923,
+      "duration_seconds": 1450.779,
       "paragraph_count": 91,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/fr/the-book-which-tells-the-truth/c2.opus?v=3d7312bfa685"
+          "url": "audio/fr/the-book-which-tells-the-truth/c2.opus?v=814d93ad7922"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c2.mp3?v=8fc1a83e929b"
+          "url": "audio/fr/the-book-which-tells-the-truth/c2.mp3?v=fc8da3b2772d"
         }
       ],
       "title": "La Vérité",
-      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c2.ambient.opus?v=55851826ca2b"
+      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c2.ambient.opus?v=7e264c6f81f9"
     },
     {
       "n": 3,
@@ -78,60 +78,60 @@
     },
     {
       "n": 5,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c5.mp3?v=aaffc2d57d13",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c5.mp3?v=db969ee51cfc",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c5.timing.json",
-      "duration_seconds": 1556.755,
+      "duration_seconds": 1553.724,
       "paragraph_count": 67,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/fr/the-book-which-tells-the-truth/c5.opus?v=4f97689864ef"
+          "url": "audio/fr/the-book-which-tells-the-truth/c5.opus?v=19cc22d6c922"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c5.mp3?v=aaffc2d57d13"
+          "url": "audio/fr/the-book-which-tells-the-truth/c5.mp3?v=db969ee51cfc"
         }
       ],
       "title": "La Fin Du Monde",
-      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c5.ambient.opus?v=5e9aabebd923"
+      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c5.ambient.opus?v=03cd5a19f066"
     },
     {
       "n": 6,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c6.mp3?v=ea52586cdada",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c6.mp3?v=a014750dcd41",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c6.timing.json",
-      "duration_seconds": 1014.8,
+      "duration_seconds": 1013.402,
       "paragraph_count": 29,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/fr/the-book-which-tells-the-truth/c6.opus?v=bc3de461fbb1"
+          "url": "audio/fr/the-book-which-tells-the-truth/c6.opus?v=54fba80226bc"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c6.mp3?v=ea52586cdada"
+          "url": "audio/fr/the-book-which-tells-the-truth/c6.mp3?v=a014750dcd41"
         }
       ],
       "title": "Les Nouveaux Commandements",
-      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c6.ambient.opus?v=0ada47311736"
+      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c6.ambient.opus?v=35299808f13a"
     },
     {
       "n": 7,
-      "audio_url": "audio/fr/the-book-which-tells-the-truth/c7.mp3?v=bef0698b1b52",
+      "audio_url": "audio/fr/the-book-which-tells-the-truth/c7.mp3?v=26614cf2643c",
       "timing_url": "audio/fr/the-book-which-tells-the-truth/c7.timing.json",
-      "duration_seconds": 1641.258,
+      "duration_seconds": 1638.216,
       "paragraph_count": 83,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/fr/the-book-which-tells-the-truth/c7.opus?v=9a7a137af29d"
+          "url": "audio/fr/the-book-which-tells-the-truth/c7.opus?v=8d99e327f60d"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/fr/the-book-which-tells-the-truth/c7.mp3?v=bef0698b1b52"
+          "url": "audio/fr/the-book-which-tells-the-truth/c7.mp3?v=26614cf2643c"
         }
       ],
       "title": "Les Elohim",
-      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c7.ambient.opus?v=a4e30d7416d2"
+      "ambient_url": "audio/fr/the-book-which-tells-the-truth/c7.ambient.opus?v=962384a9285e"
     }
   ]
 }

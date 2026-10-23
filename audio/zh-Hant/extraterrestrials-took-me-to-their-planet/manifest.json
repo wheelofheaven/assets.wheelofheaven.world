@@ -6,22 +6,18 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c1.mp3?v=0515c899abc3",
+      "audio_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c1.opus?v=2abdabeff0d7",
       "timing_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c1.timing.json",
-      "duration_seconds": 2915.428,
+      "duration_seconds": 2911.66,
       "paragraph_count": 78,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c1.opus?v=5503fca93896"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c1.mp3?v=0515c899abc3"
+          "url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c1.opus?v=2abdabeff0d7"
         }
       ],
       "title": "我的生平直至初次相遇",
-      "ambient_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=4b956e235d45"
+      "ambient_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c1.ambient.opus?v=7c214fdef9fc"
     },
     {
       "n": 2,
@@ -40,22 +36,18 @@
     },
     {
       "n": 3,
-      "audio_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c3.mp3?v=18a06405d795",
+      "audio_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c3.opus?v=b569ee69ff27",
       "timing_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c3.timing.json",
-      "duration_seconds": 5195.598,
+      "duration_seconds": 5182.944,
       "paragraph_count": 264,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c3.opus?v=3c67f3bb9f5c"
-        },
-        {
-          "type": "audio/mpeg",
-          "url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c3.mp3?v=18a06405d795"
+          "url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c3.opus?v=b569ee69ff27"
         }
       ],
       "title": "鑰匙",
-      "ambient_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=ca61ac97fc23"
+      "ambient_url": "audio/zh-Hant/extraterrestrials-took-me-to-their-planet/c3.ambient.opus?v=425e352c054a"
     }
   ]
 }

@@ -6,41 +6,41 @@
   "chapters": [
     {
       "n": 1,
-      "audio_url": "audio/zh/the-book-which-tells-the-truth/c1.mp3?v=0e0861142c0e",
+      "audio_url": "audio/zh/the-book-which-tells-the-truth/c1.mp3?v=f0213d6851fa",
       "timing_url": "audio/zh/the-book-which-tells-the-truth/c1.timing.json",
-      "duration_seconds": 875.753,
+      "duration_seconds": 874.257,
       "paragraph_count": 65,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh/the-book-which-tells-the-truth/c1.opus?v=ec170beea87e"
+          "url": "audio/zh/the-book-which-tells-the-truth/c1.opus?v=23ef554f09fd"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh/the-book-which-tells-the-truth/c1.mp3?v=0e0861142c0e"
+          "url": "audio/zh/the-book-which-tells-the-truth/c1.mp3?v=f0213d6851fa"
         }
       ],
       "title": "相遇",
-      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c1.ambient.opus?v=cc8002ce0e43"
+      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c1.ambient.opus?v=1397fcfe73a2"
     },
     {
       "n": 2,
-      "audio_url": "audio/zh/the-book-which-tells-the-truth/c2.mp3?v=2b035a9cdb06",
+      "audio_url": "audio/zh/the-book-which-tells-the-truth/c2.mp3?v=cb824ea98fa1",
       "timing_url": "audio/zh/the-book-which-tells-the-truth/c2.timing.json",
-      "duration_seconds": 1472.756,
+      "duration_seconds": 1468.904,
       "paragraph_count": 91,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh/the-book-which-tells-the-truth/c2.opus?v=3c732008ceb2"
+          "url": "audio/zh/the-book-which-tells-the-truth/c2.opus?v=6afbe77f68ea"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh/the-book-which-tells-the-truth/c2.mp3?v=2b035a9cdb06"
+          "url": "audio/zh/the-book-which-tells-the-truth/c2.mp3?v=cb824ea98fa1"
         }
       ],
       "title": "真实",
-      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c2.ambient.opus?v=1f898c2d7d57"
+      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c2.ambient.opus?v=ca8b84728828"
     },
     {
       "n": 3,
@@ -78,60 +78,60 @@
     },
     {
       "n": 5,
-      "audio_url": "audio/zh/the-book-which-tells-the-truth/c5.mp3?v=62cd6e895259",
+      "audio_url": "audio/zh/the-book-which-tells-the-truth/c5.mp3?v=b1d2c53e353b",
       "timing_url": "audio/zh/the-book-which-tells-the-truth/c5.timing.json",
-      "duration_seconds": 1508.55,
+      "duration_seconds": 1505.652,
       "paragraph_count": 67,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh/the-book-which-tells-the-truth/c5.opus?v=49553b4ec92d"
+          "url": "audio/zh/the-book-which-tells-the-truth/c5.opus?v=3fdc204e35d6"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh/the-book-which-tells-the-truth/c5.mp3?v=62cd6e895259"
+          "url": "audio/zh/the-book-which-tells-the-truth/c5.mp3?v=b1d2c53e353b"
         }
       ],
       "title": "世界末日",
-      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c5.ambient.opus?v=195acdad9730"
+      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c5.ambient.opus?v=cc7818048a11"
     },
     {
       "n": 6,
-      "audio_url": "audio/zh/the-book-which-tells-the-truth/c6.mp3?v=ec7f60bf8191",
+      "audio_url": "audio/zh/the-book-which-tells-the-truth/c6.mp3?v=2b2c75dd9466",
       "timing_url": "audio/zh/the-book-which-tells-the-truth/c6.timing.json",
-      "duration_seconds": 967.478,
+      "duration_seconds": 966.248,
       "paragraph_count": 29,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh/the-book-which-tells-the-truth/c6.opus?v=b85ed5e70cfb"
+          "url": "audio/zh/the-book-which-tells-the-truth/c6.opus?v=ecd282984941"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh/the-book-which-tells-the-truth/c6.mp3?v=ec7f60bf8191"
+          "url": "audio/zh/the-book-which-tells-the-truth/c6.mp3?v=2b2c75dd9466"
         }
       ],
       "title": "新的诫命",
-      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c6.ambient.opus?v=40c0b2a95356"
+      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c6.ambient.opus?v=11ab1a1e82c2"
     },
     {
       "n": 7,
-      "audio_url": "audio/zh/the-book-which-tells-the-truth/c7.mp3?v=de17b64c33e0",
+      "audio_url": "audio/zh/the-book-which-tells-the-truth/c7.mp3?v=ab7006e540a7",
       "timing_url": "audio/zh/the-book-which-tells-the-truth/c7.timing.json",
-      "duration_seconds": 1601.227,
+      "duration_seconds": 1598.428,
       "paragraph_count": 83,
       "formats": [
         {
           "type": "audio/ogg; codecs=opus",
-          "url": "audio/zh/the-book-which-tells-the-truth/c7.opus?v=f948a1f3ac91"
+          "url": "audio/zh/the-book-which-tells-the-truth/c7.opus?v=8618bcb36b4b"
         },
         {
           "type": "audio/mpeg",
-          "url": "audio/zh/the-book-which-tells-the-truth/c7.mp3?v=de17b64c33e0"
+          "url": "audio/zh/the-book-which-tells-the-truth/c7.mp3?v=ab7006e540a7"
         }
       ],
       "title": "埃洛希姆",
-      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c7.ambient.opus?v=5ef9df41c2fd"
+      "ambient_url": "audio/zh/the-book-which-tells-the-truth/c7.ambient.opus?v=6eda2a7f0112"
     }
   ]
 }
